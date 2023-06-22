@@ -1,0 +1,741 @@
+,Cargo Name,Cargo ID,Cargo Weight,Transport Distance,Hour,Minutes,Ferry?,Ferry Length,Ferry Cost,Origin City,Origin City ID,Origin Country,Origin Company,Origin Company ID,Destination City,Destination City ID,Destination Country,Destiantion Company,Destination Company ID,Transport Type,Trailer Type,High Value Cargo,Heavy Cargo,Fragile Cargo,ADR Cargo,ADR Class & Type,Special Transport,Price Per KM,Price
+0,Pressure Tank,1,12,2383,33,55,Yes,60,300,Aberdeen,0,England,NBFC,,Vienna,,Austria,NS Oil,,Urgent,Flatbeds,Yes,No,No,No,Nil,No,52.73,126556
+2,Forklifts,3,11,2139,30,26,Yes,60,300,Aberdeen,0,England,Treeet,,Szczecin,,Poland,Transinet,,Normal,Low bed,Yes,No,No,No,Nil,No,41.15,88920
+148,Helicopter- 1808TX,14,3,572,8,8,No,0,0,Aberdeen,0,England,Stokes,,Manchester,,England,LKW,,Normal,Low bed,Yes,No,Yes,No,Nil,No,57.12,33274
+289,Fuel Tanker,27,9,595,8,25,No,0,0,Aberdeen,0,England,Stokes,,Sheffield,,England,Transinet,,Urgent,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,37.18,22723
+328,Tractors,41,11,395,5,33,No,0,0,Aberdeen,0,England,Treeet,,Carlisle,,England,Posped,,Very Urgent,Low bed,No,No,No,No,Nil,No,49.9,20309
+160,Backhoe Loder,68,8,71,9,41,No,0,0,Aberdeen,0,England,Treeet,,Birmingham,,England,Sand Builders,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,35.75,32412
+528,Sodium Hydroxide,78,9,640,9,8,No,0,0,Aberdeen,0,England,NBFC,,Grimsby,,England,WGCC,,Very Urgent,Tank,No,No,No,Yes,Class 8- Corrosive substances,No,18.76,12608
+154,Locomotive- Vossloh G6,104,61,639,20,16,Yes,370,995,Aberdeen,0,England,Stokes,,Rotterdam,,Netherlands,Posped,,Urgent,Low bed,Yes,Yes,No,No,Nil,No,49.11,32976
+173,Neon,114,10,638,20,12,Yes,370,995,Aberdeen,0,England,NBFC,,Rotterdam,,Netherlands,WGCC,,Very Urgent,Tank,No,No,Yes,Yes,Class 2- Gases,No,46.76,31425
+249,Wooden Beams,115,22,833,11,25,No,0,0,Aberdeen,0,England,Treeet,,Cambridge,,England,Euro Acers,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.85,25465
+705,Lumber,118,17,239,3,31,No,0,0,Aberdeen,0,England,Treeet,,Edinburgh,,England,Sand Builders,,Normal,Flatbeds,No,No,No,No,Nil,No,20.18,5422
+223,Chlorine,129,16,576,8,7,No,0,0,Aberdeen,0,England,NBFC,,Liverpool,,England,NBFC,,Very Urgent,Tank,No,No,Yes,Yes,Class 2- Gases,No,45.9,27040
+270,Big-Bags of Seeds,142,19,822,11,47,No,0,0,Aberdeen,0,England,Stokes,,Swansea,,England,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.58,24092
+25,Pressure Tank,1,12,997,15,1,No,0,0,Salzburg,81,Austria,Stein Brunch,,Hamburg,,Germany,LKW,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,53.19,53632
+715,Post Packages,2,11,133,2,3,No,0,0,Salzburg,81,Austria,RTLOG,,Linz,,Austria,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,32.54,4928
+85,Forklifts,3,11,902,13,24,No,0,0,Salzburg,81,Austria,RENAT,,Hamburg,,Germany,Transinet,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,45.08,41259
+170,Furniture,9,16,719,10,51,No,0,0,Salzburg,81,Austria,RENAT,,Metz,,France,Posped,,Very Urgent,Curtainsiders,No,No,Yes,No,Nil,No,43.27,31709
+13,Logs,13,22,2266,37,27,Yes,60,300,Salzburg,81,Austria,Treeet,,Aberdeen,,England,Treeet,,Normal,Flatbeds,No,No,No,No,Nil,No,28.27,63830
+105,Articulated Hauler Volvo A25G,16,25,865,12,45,No,0,0,Salzburg,81,Austria,Sand Builders,,Lodz,,Poland,Posped,,Urgent,Low bed,Yes,Yes,No,No,Nil,No,42.92,37729
+620,Articulated Hauler Volvo A25G,16,25,222,3,29,No,0,0,Salzburg,81,Austria,Sand Builders,,Innsbruck,,Austria,Stein Brunch,,Urgent,Low bed,Yes,Yes,No,No,Nil,No,28.97,9251
+269,Used Plastics,35,7,1089,15,47,No,0,0,Salzburg,81,Austria,Sell Plan,,Calasis,,France,LKW,,Normal,Container Chassis,No,No,No,No,Nil,No,21.6,24118
+534,Excavator Volvo EW240E MH,45,26,275,4,36,No,0,0,Salzburg,81,Austria,Stein Brunch,,klagenfurt,,Austria,Treeet,,Very Urgent,Low bed,Yes,Yes,No,No,Nil,No,42.61,12319
+319,Used Packaging,63,20,819,11,49,No,0,0,Salzburg,81,Austria,Sell Plan,,Dijon,,France,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,24.43,20606
+130,Backhoe Loder,68,8,872,12,47,No,0,0,Salzburg,81,Austria,Sand Builders,,Dusseldorf,,Germany,Stokes,,Normal,Low bed,Yes,No,No,No,Nil,No,39.37,34933
+114,Sodium Hydroxide,78,18,1097,15,57,No,0,0,Salzburg,81,Austria,RTLOG,,Rotterdam,,Netherlands,WGCC,,Normal,Tank,No,No,No,Yes,Class 8- Corrosive substances,No,32.7,36477
+120,Non-alcoholic Beer,88,22,1048,16,21,No,0,0,Salzburg,81,Austria,Kolice,,Gdansk,,Poland,LKW,,Urgent,Refrigerated,No,No,No,No,Nil,No,33.63,35846
+296,Wooden Beams,115,22,650,9,49,No,0,0,Salzburg,81,Austria,Treeet,,Brno,,Czech Republic,Euro Acers,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.12,22125
+248,Lemonade,135,32,842,12,20,No,0,0,Salzburg,81,Austria,Kolice,,Lyon,,France,Tradeaux,,Normal,Curtainsiders,No,Yes,No,No,Nil,No,29.56,25486
+259,Bottled Water,139,21,787,11,41,No,0,0,Salzburg,81,Austria,Kolice,,Duisburg,,Germany,LKW,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,30.66,24888
+613,Beverages,148,27,219,3,25,No,0,0,Salzburg,81,Austria,Kolice,,Innsbruck,,Austria,RTLOG,,Very Urgent,Tank,No,Yes,Yes,No,Nil,No,40.92,9561
+698,Sand,210,25,257,4,14,No,0,0,Salzburg,81,Austria,Stein Brunch,,Salzburg,,Austria,RTLOG,,Urgent,Bulk Carriers,No,Yes,No,No,Nil,No,20.95,5984
+79,Pressure Tank,1,12,803,11,59,No,0,0,Ostarva,70,Czech Republic,ITCC,,Hanover,,Germany,FCP,,Very Urgent,Flatbeds,Yes,No,No,No,Nil,No,52.03,42330
+30,Oil,26,24,1074,16,38,No,0,0,Ostarva,70,Czech Republic,Stein Brunch,,Liege,,Belgium,LKW,,Very Urgent,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,48.48,52664
+721,Empty Pallets,53,22,137,2,14,No,0,0,Ostarva,70,Czech Republic,Kaarfor,,Krakow,,Poland,Tradeaux,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,27.88,4419
+290,Ventilation Shaft,55,4,627,9,16,No,0,0,Ostarva,70,Czech Republic,transinet,,Leipzig ,,Germany,FCP,,Urgent,Flatbeds,No,No,No,No,Nil,No,35.15,22637
+574,Floor Pannels,59,19,447,6,34,No,0,0,Ostarva,70,Czech Republic,ITCC,,Budapest,,Hungary,Tradeaux,,Normal,Low bed,No,No,No,No,Nil,No,23.52,11112
+659,Used Packaging,63,20,279,4,10,No,0,0,Ostarva,70,Czech Republic,Kaarfor,,B.Bystrica,,Slovakia,Stokes,,Urgent,Curtainsiders,No,No,No,No,Nil,No,25.61,7745
+621,Heavy Metals,102,10,447,6,33,No,0,0,Ostarva,70,Czech Republic,NBFC,,Budapest,,Hungary,Trameri,,Urgent,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,19.16,9166
+242,Rice,109,17,1086,15,29,No,0,0,Ostarva,70,Czech Republic,transinet,,Bern,,Switzerland,Kaarfor,,Normal,Container Chassis,No,No,No,No,Nil,No,23.34,25946
+538,Chlorine,129,8,548,8,5,No,0,0,Ostarva,70,Czech Republic,NBFC,,Berlin ,,Germany,NBFC,,Urgent,Tank,No,No,Yes,Yes,Class 2- Gases,No,21.21,12222
+285,Graphite Grease,149,16,799,11,49,No,0,0,Ostarva,70,Czech Republic,NBFC,,Hanover,,Germany,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.14,23083
+340,Wheat,165,17,1054,16,19,No,0,0,Ostarva,70,Czech Republic,transinet,,Metz,,France,Posped,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,18.22,19805
+164,Pressure Tank,1,12,702,10,2,No,0,0,Calais,14,France,NBFC,,Frankfurt,,Germany,Tradeaux,,Normal,Flatbeds,Yes,No,No,No,Nil,No,45.08,32246
+524,Forklifts,3,11,325,6,3,Yes,49,384,Calais,14,France,NBFC,,Birmingham,,England,Treeet,,Normal,Low bed,Yes,No,No,No,Nil,No,36.23,12759
+162,Furniture,9,16,846,12,17,No,0,0,Calais,14,France,LKW,,Hamburg,,Germany,Transinet,,Normal,Curtainsiders,No,No,Yes,No,Nil,No,33.41,32313
+250,Fireworks,28,9,544,7,50,No,0,0,Calais,14,France,LKW,,Duisburg,,Germany,LKW,,Very Urgent,Curtainsiders,No,No,Yes,Yes,Class 1- Explosives,No,45.63,25420
+498,Apples,51,20,455,6,22,No,0,0,Calais,14,France,Stokes,,Amsterdam,,Netherlands,Kaarfor,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.51,13574
+363,Diesel,70,25,358,4,57,No,0,0,Calais,14,France,NBFC,,Liege,,Belgium,Treeet,,Normal,Tank,No,Yes,No,Yes,Class 3- Flammable Liquids,No,51.67,19099
+93,Natural Rubber,74,21,1028,14,2,No,0,0,Calais,14,France,Stokes,,Milan,,Italy,Spinelli,,Urgent,Curtainsiders,No,No,No,No,Nil,No,38.09,39754
+435,Sodium Hydroxide,78,18,409,7,24,Yes,49,384,Calais,14,France,NBFC,,Grimsby,,England,WGCC,,Very Urgent,Tank,No,No,No,Yes,Class 8- Corrosive substances,No,36.56,15938
+512,Rice,109,22,373,5,13,No,0,0,Calais,14,France,Stokes,,Rotterdam,,Netherlands,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,33.76,13192
+579,Wheel Loader,127,15,240,5,4,Yes,49,384,Calais,14,France,LKW,,Felixstowe,,England,Tradeaux,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,41.76,11007
+276,Plant Substrate,144,18,767,12,1,No,0,0,Calais,14,France,LKW,,Edinburgh,,England,Kaarfor,,Urgent,Curtainsiders,No,No,No,No,Nil,No,29.81,23847
+508,Sausages,197,17,430,6,10,No,0,0,Calais,14,France,LKW,,Metz,,France,Euro Goodies,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.46,13268
+199,Pressure Tank,1,12,579,8,41,No,0,0,Innsbruck,40,Austria,Stein Brunch,,Brno,,Czech Republic,Sand Builders,,Urgent,Low bed,Yes,No,No,No,Nil,No,49.25,29116
+373,Pressure Tank,1,12,354,5,31,No,0,0,Innsbruck,40,Austria,Trameri,,Nurmeberg,,Germany,Sand Builders,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,50.87,18606
+218,Forklifts,3,11,699,10,23,No,0,0,Innsbruck,40,Austria,Trameri,,Berlin ,,Germany,NBFC,,Normal,Low bed,Yes,No,No,No,Nil,No,38.2,27304
+275,Rock Bucket Volvo SPN PT SEG,40,3,674,9,28,No,0,0,Innsbruck,40,Austria,Stein Brunch,,Metz,,France,Treeet,,Urgent,Low bed,Yes,No,No,No,Nil,No,34.52,23864
+228,Used Packaging,63,20,1040,15,20,No,0,0,Innsbruck,40,Austria,Trameri,,Warsaw,,Poland,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.17,26776
+83,Oranges,67,20,1309,18,42,Yes,60,300,Innsbruck,40,Austria,Euro Goodies,,Cambridge,,England,Kaarfor,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.99,41467
+525,Medical Equipments,83,5,273,4,30,No,0,0,Innsbruck,40,Austria,RTLOG,,Zurich,,Switzerland,Stokes,,Normal,Refrigerated,Yes,No,Yes,No,Nil,No,44.45,12736
+203,Canned Tuna,126,18,842,12,23,No,0,0,Innsbruck,40,Austria,RTLOG,,Duisburg,,Germany,LKW,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,33.5,28809
+468,Milk,160,20,481,7,0,No,0,0,Innsbruck,40,Austria,Euro Goodies,,Vienna,,Austria,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.84,14952
+453,Wheat,165,17,837,12,23,No,0,0,Innsbruck,40,Austria,Euro Goodies,,Katowice,,Poland,Euro Goodies,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,17.47,15445
+347,Fresh Fish,168,18,556,8,14,No,0,0,Innsbruck,40,Austria,Euro Goodies,,Frankfurt,,Germany,Kaarfor,,Urgent,Refrigerated,No,No,No,No,Nil,No,34.3,19673
+351,Rye,169,18,1040,15,19,No,0,0,Innsbruck,40,Austria,Euro Goodies,,Warsaw,,Poland,Posped,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,18.22,19551
+297,Pressure Tank,1,12,418,5,39,No,0,0,Liege,49,Belgium,Stokes,,Strasbourg,,France,WGCC,,Very Urgent,Flatbeds,Yes,No,No,No,Nil,No,50.87,21863
+476,Chicken Meat,22,17,521,7,1,No,0,0,Liege,49,Belgium,Stokes,,Dijon,,France,Stokes,,Normal,Refrigerated,No,No,No,No,Nil,No,27,14667
+61,Flour,49,20,1441,20,26,No,0,0,Liege,49,Belgium,Euro Acers,,Kosice,,Slovakia,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,31.25,45632
+391,Floor Pannels,59,19,703,10,29,No,0,0,Liege,49,Belgium,ITCC,,Rostock,,Germany,Tradeaux,,Normal,Low bed,No,No,No,No,Nil,No,24.25,17649
+174,Wooden Beams,115,22,999,14,38,No,0,0,Liege,49,Belgium,Treeet,,Garz,,Austria,RTLOG,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.76,31326
+358,Lumber,118,17,842,12,52,No,0,0,Liege,49,Belgium,Treeet,,Turin,,Italy,Euro Acers,,Normal,Flatbeds,No,No,No,No,Nil,No,22.21,19298
+361,Metal Beams,167,24,658,9,50,No,0,0,Liege,49,Belgium,ITCC,,kiel,,Germany,Stokes,,Normal,Flatbeds,No,No,No,No,Nil,No,28.2,19157
+440,Almond,173,17,514,6,53,No,0,0,Liege,49,Belgium,Euro Goodies,,Dijon,,France,Euro Goodies,,Urgent,Curtainsiders,No,No,No,No,Nil,No,29.62,15826
+676,Wood Shavings,201,4,858,12,49,No,0,0,Liege,49,Belgium,Treeet,,Poznan,,Poland,Stokes,,Normal,Bulk Carriers,No,No,No,No,Nil,No,7.82,7313
+1,Post Packages,2,11,2029,28,49,Yes,60,300,Carlisle,18,England,Posped,,Katowice,,Poland,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,45.61,93437
+535,Roof Tiles,64,20,325,15,51,Yes,370,995,Carlisle,18,England,Trameri,,Rotterdam,,Netherlands,Sand Builders,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,32.93,12297
+550,Pork,98,18,323,15,46,Yes,370,995,Carlisle,18,England,Euro Acers,,Rotterdam,,Netherlands,Posped,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,31.17,11663
+193,Plastic Pipes,123,12,1360,19,58,Yes,60,300,Carlisle,18,England,Trameri,,Stuttgart,,Germany,Stein Brunch,,Urgent,Flatbeds,No,No,No,No,Nil,No,21.13,29643
+663,Plastic Flim Rolls,124,11,326,15,53,Yes,370,995,Carlisle,18,England,Trameri,,Rotterdam,,Netherlands,Transinet,,Normal,Container Chassis,No,No,No,No,Nil,No,18.65,7675
+357,Lamb Stomachs,170,13,580,19,30,Yes,60,300,Carlisle,18,England,Posped,,Groningen,,Netherlands,Sell Plan,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.53,19304
+552,Post Packages,2,11,328,5,16,No,0,0,Kassel,41,Germany,Tradeaux,,Hamburg,,Germany,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,33.63,11631
+371,Shock Absorbers,12,16,517,8,25,No,0,0,Kassel,41,Germany,Tradeaux,,Brussels,,Belgium,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,35,18697
+691,Apples,51,18,225,4,12,No,0,0,Kassel,41,Germany,Tradeaux,,Dusseldorf,,Germany,Stokes,,Urgent,Container Chassis,No,No,No,No,Nil,No,27.22,6725
+730,Wood Bark,214,6,404,6,18,No,0,0,Kassel,41,Germany,Tradeaux,,Berlin ,,Germany,Euro Acers,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,8.19,3909
+12,Forklifts,3,11,1572,22,42,Yes,60,300,Bratislava,8,Slovakia,BCP,,Southampton,,England,Transinet,,Normal,Low bed,Yes,No,No,No,Nil,No,44.15,65588
+57,Forklifts,3,11,1005,14,30,No,0,0,Bratislava,8,Slovakia,WGCC,,Dusseldorf,,Germany,Stokes,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,45.08,45903
+5,Potassium,6,17,1540,22,24,Yes,60,300,Bratislava,8,Slovakia,WGCC,,London,,England,NBFC,,Urgent,Tank,No,No,Yes,Yes,Class 4- Flammable Solids,No,50.05,77981
+17,Nitrocellulose,15,13,1290,18,28,No,0,0,Bratislava,8,Slovakia,WGCC,,Rotterdam,,Netherlands,WGCC,,Very Urgent,Flatbeds,No,No,Yes,Yes,Class 4- Flammable Solids,No,46.94,61147
+556,Liver Paste,39,17,340,5,0,No,0,0,Bratislava,8,Slovakia,Posped,,klagenfurt,,Austria,Sell Plan,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,32.27,11571
+48,Tractors,41,11,1048,14,58,No,0,0,Bratislava,8,Slovakia,Treeet,,Bern,,Switzerland,Euro Acers,,Normal,Low bed,No,No,No,No,Nil,No,44.64,47378
+69,Dryers,56,13,962,14,0,No,0,0,Bratislava,8,Slovakia,Posped,,Bern,,Switzerland,Kaarfor,,Very Urgent,Curtainsiders,No,No,Yes,No,Nil,No,44.64,43547
+412,Sawdust Pannels,91,21,451,6,22,No,0,0,Bratislava,8,Slovakia,Treeet,,Szeged,,Hungary,LKW,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,36.13,16893
+527,Mobile Crane - UTM SD-833,113,36,284,4,5,No,0,0,Bratislava,8,Slovakia,Treeet,,Katowice,,Poland,Stokes,,Normal,Low bed,Yes,Yes,No,No,Nil,No,42.38,12637
+422,Industrial Condenser,119,60,249,3,36,No,0,0,Bratislava,8,Slovakia,Government,,Garz,,Austria,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,63,16310
+423,Massive Tech Part,156,44,249,3,36,No,0,0,Bratislava,8,Slovakia,Government,,Garz,,Austria,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,63,16310
+669,Sodium  ,219,7,387,5,35,No,0,0,Bratislava,8,Slovakia,WGCC,,Salzburg,,Austria,RTLOG,,Normal,Tank,No,No,Yes,Yes,Class 4- Flammable Solids,No,17.94,7542
+14,Forklifts,3,11,1436,21,32,No,0,0,Lille,50,France,Tradeaux,,Lublin,,Poland,Posped,,Urgent,Low bed,Yes,No,No,No,Nil,No,43.7,63356
+63,Peas,8,18,1308,18,53,No,0,0,Lille,50,France,Euro Acers,,Krakow,,Poland,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,34.24,45392
+581,Fuel Tanker,27,9,268,4,26,Yes,60,300,Lille,50,France,Trameri,,London,,England,Posped,,Very Urgent,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,37.59,10973
+716,Roofing Felt,52,19,121,3,27,Yes,49,384,Lille,50,France,Trameri,,Dover,,England,LKW,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,32.07,4865
+82,Airmail,66,10,1007,13,57,No,0,0,Lille,50,France,Tradeaux,,Milan,,Italy,ACI,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,40.94,41827
+683,Plastic Flim Rolls,124,11,306,4,49,No,0,0,Lille,50,France,Trameri,,Amsterdam,,Netherlands,LKW,,Urgent,Container Chassis,No,No,No,No,Nil,No,20.82,6970
+446,Rye,169,21,757,11,6,No,0,0,Lille,50,France,Euro Goodies,,Nurmeberg,,Germany,Stokes,,Urgent,Silo,No,No,No,No,Nil,No,19.71,15518
+16,Forklifts,3,11,1346,18,25,Yes,60,300,Zurich,97,Switzerland,Treeet,,Manchester,,England,LKW,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,46.94,62895
+298,Cars,10,7,485,7,22,No,0,0,Zurich,97,Switzerland,Stokes,,Salzburg,,Austria,RTLOG,,Normal,Flatbeds,Yes,No,Yes,No,Nil,No,43.55,21723
+425,Articulated Hauler Volvo A25G,16,25,381,5,49,No,0,0,Zurich,97,Switzerland,Stokes,,Frankfurt,,Germany,Tradeaux,,Urgent,Low bed,Yes,Yes,No,No,Nil,No,40.94,16199
+53,Crawl Tractor,23,13,1142,16,34,No,0,0,Zurich,97,Switzerland,Treeet,,Szeged,,Hungary,Euro Acers,,Normal,Flatbeds,Yes,No,No,No,Nil,No,40.17,46470
+596,Carrots,77,7,727,10,47,No,0,0,Zurich,97,Switzerland,Posped,,Garz,,Austria,LKW,,Normal,Container Chassis,No,No,No,No,Nil,No,13.32,10285
+399,Lumber,118,17,759,11,10,No,0,0,Zurich,97,Switzerland,Treeet,,Dresden,,Germany,Euro Acers,,Normal,Flatbeds,No,No,No,No,Nil,No,22.2,17453
+336,Coconut Milk,164,21,740,10,56,No,0,0,Zurich,97,Switzerland,Posped,,Vienna,,Austria,Euro Goodies,,Normal,Curtainsiders,No,No,No,No,Nil,No,26.19,19979
+631,Wood Bark,214,6,956,13,54,No,0,0,Zurich,97,Switzerland,Treeet,,Szczecin,,Poland,Transinet,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,8.65,8873
+665,Canned Pork,217,21,250,3,41,No,0,0,Zurich,97,Switzerland,Posped,,Geneva,,Switzerland,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,28.16,7640
+667,Polystyrene Boxes,218,3,250,3,40,No,0,0,Zurich,97,Switzerland,Stokes,,Geneva,,Switzerland,Tradeaux,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,28.08,7621
+18,Forklifts,3,11,1437,19,28,Yes,60,300,Geneva,34,Switzerland,Treeet,,Carlisle,,England,Trameri,,Normal,Low bed,Yes,No,No,No,Nil,No,40.17,58620
+213,Radiators,20,9,678,9,26,No,0,0,Geneva,34,Switzerland,Posped,,Liege,,Belgium,Stokes,,Urgent,Curtainsiders,No,No,No,No,Nil,No,40.27,27902
+92,Crawl Tractor,23,13,874,12,34,No,0,0,Geneva,34,Switzerland,Tradeaux,,Prague,,Czech Republic,Tradeaux,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,45.08,39997
+180,Excavator Volvo EW240E MH,45,26,785,11,49,No,0,0,Geneva,34,Switzerland,Treeet,,Duisburg,,Germany,LKW,,Normal,Low bed,Yes,Yes,No,No,Nil,No,38.65,30938
+166,Used Packaging,63,20,1217,17,40,No,0,0,Geneva,34,Switzerland,Sell Plan,,B.Bystrica,,Slovakia,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.91,32135
+495,Wooden Beams,115,21,467,6,28,No,0,0,Geneva,34,Switzerland,Treeet,,Luxembourg,,Luxembourg,Sand Builders,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.06,13705
+376,Smoked Sparts,131,17,540,8,4,No,0,0,Geneva,34,Switzerland,Posped,,Reims,,France,Kaarfor,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.15,18503
+703,Pet Food,180,20,236,3,30,No,0,0,Geneva,34,Switzerland,Tradeaux,,Zurich,,Switzerland,Posped,,Normal,Container Chassis,No,No,No,No,Nil,No,21.22,5608
+680,Ore,203,22,501,7,35,No,0,0,Geneva,34,Switzerland,Tradeaux,,Innsbruck,,Austria,RTLOG,,Normal,Bulk Carriers,No,No,No,No,Nil,No,12.92,7071
+567,Coal,204,21,678,9,26,No,0,0,Geneva,34,Switzerland,Posped,,Liege,,Belgium,Stokes,,Very Urgent,Bulk Carriers,No,No,No,No,Nil,No,15.75,11279
+186,Forklifts,3,11,785,12,3,No,0,0,Debrecen,20,Hungary,Sand Builders,,Salzburg,,Austria,Sand Builders,,Normal,Low bed,Yes,No,No,No,Nil,No,38.2,30588
+7,Peas,8,18,2024,29,15,Yes,60,300,Debrecen,20,Hungary,Euro Acers,,Southampton,,England,Transinet,,Urgent,Curtainsiders,No,No,No,No,Nil,No,35.13,72013
+437,Dry milk,36,18,481,7,50,No,0,0,Debrecen,20,Hungary,Euro Acers,,Lublin,,Poland,Kaarfor,,Urgent,Container Chassis,No,No,No,No,Nil,No,31.84,15913
+51,Fuel Tanks,43,10,1168,16,51,No,0,0,Debrecen,20,Hungary,transinet,,Frankfurt,,Germany,Tradeaux,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,39.6,46771
+108,Maple Syrup,80,17,1191,17,57,No,0,0,Debrecen,20,Hungary,transinet,,Milan,,Italy,Cargotras,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.83,37324
+362,Pears,81,15,535,8,31,No,0,0,Debrecen,20,Hungary,transinet,,Garz,,Austria,LKW,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,34.66,19145
+392,Non-alcoholic Beer,88,22,535,8,33,No,0,0,Debrecen,20,Hungary,Euro Goodies,,Garz,,Austria,LKW,,Urgent,Curtainsiders,No,No,No,No,Nil,No,31.84,17633
+140,Large Tubes,100,22,928,13,24,No,0,0,Debrecen,20,Hungary,transinet,,Munich,,Germany,WGCC,,Very Urgent,Low bed,No,No,No,No,Nil,No,36.01,34012
+588,Lamb Stomachs,170,13,349,5,16,No,0,0,Debrecen,20,Hungary,Euro Goodies,,B.Bystrica,,Slovakia,Euro Goodies,,Normal,Refrigerated,No,No,No,No,Nil,No,48.67,10607
+352,Forklifts,3,11,590,7,13,No,0,0,Brno,11,Czech Republic,Trameri,,Szeged,,Hungary,Trameri,,Normal,Low bed,Yes,No,No,No,Nil,No,37.22,19545
+568,Nylon Cord,24,23,338,5,14,No,0,0,Brno,11,Czech Republic,LKW,,Salzburg,,Austria,RTLOG,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,31.56,11267
+217,Onions,38,17,777,11,22,No,0,0,Brno,11,Czech Republic,LKW,,Verona,,Italy,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,34.95,27753
+129,Excavator Volvo EW240E MH,45,26,874,12,49,No,0,0,Brno,11,Czech Republic,LKW,,Duisburg,,Germany,LKW,,Normal,Low bed,Yes,Yes,No,No,Nil,No,39.64,35248
+194,Truck Batteries,48,18,874,12,49,No,0,0,Brno,11,Czech Republic,LKW,,Duisburg,,Germany,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,33.22,29638
+279,Apples,51,20,702,10,13,No,0,0,Brno,11,Czech Republic,LKW,,Stuttgart,,Germany,FLE,,Urgent,Refrigerated,No,No,No,No,Nil,No,32.63,23504
+390,Used Packaging,63,20,698,10,37,No,0,0,Brno,11,Czech Republic,Trameri,,Mannheim,,Germany,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,24.43,17649
+628,Backhoe Loder,68,8,235,3,36,No,0,0,Brno,11,Czech Republic,Euro Acers,,Prague,,Czech Republic,Stein Brunch,,Normal,Low bed,Yes,No,No,No,Nil,No,35.42,8924
+597,Sawdust Pannels,91,21,275,4,13,No,0,0,Brno,11,Czech Republic,LKW,,Garz,,Austria,LKW,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,34.17,10272
+519,Asphalt Miller- AM0880,97,44,294,4,29,No,0,0,Brno,11,Czech Republic,Sand Builders,,Garz,,Austria,LKW,,Normal,Low bed,Yes,Yes,No,No,Nil,No,41.69,12857
+513,Plastic Flim Rolls,124,11,550,8,45,No,0,0,Brno,11,Czech Republic,Trameri,,Lublin,,Poland,Posped,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,22.88,13182
+384,Garlic,171,12,607,9,5,No,0,0,Brno,11,Czech Republic,Euro Acers,,Innsbruck,,Austria,RTLOG,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.68,18007
+366,Forklifts,3,11,492,7,24,No,0,0,Stuttgart,85,Germany,Treeet,,Cologne,,Germany,ITCC,,Normal,Low bed,Yes,No,No,No,Nil,No,37.22,18912
+32,Fireworks,28,9,1089,16,1,No,0,0,Stuttgart,85,Germany,LKW,,Warsaw,,Poland,Stokes,,Very Urgent,Curtainsiders,No,No,Yes,Yes,Class 1- Explosives,No,47.74,52558
+304,Excavator Volvo EW240E MH,45,26,476,7,11,No,0,0,Stuttgart,85,Germany,Treeet,,Dortmund,,Germany,Transinet,,Very Urgent,Low bed,Yes,Yes,No,No,Nil,No,43.61,21360
+233,Tracks,47,11,672,9,59,No,0,0,Stuttgart,85,Germany,Stein Brunch,,Rotterdam,,Netherlands,Transinet,,Urgent,Low bed,No,No,No,No,Nil,No,38.21,26276
+321,Beef,50,21,604,8,49,No,0,0,Stuttgart,85,Germany,LKW,,Garz,,Austria,LKW,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,33.09,20589
+353,Apples,51,15,719,10,52,No,0,0,Stuttgart,85,Germany,FLE,,Groningen,,Netherlands,Sell Plan,,Very Urgent,Articulated Trailer,No,No,No,No,Nil,No,26.34,19539
+668,Oranges,67,20,218,3,26,No,0,0,Stuttgart,85,Germany,FLE,,Zurich,,Switzerland,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,31.87,7548
+122,Canned Beans,89,16,1190,17,25,Yes,60,300,Stuttgart,85,Germany,LKW,,Plymouth,,England,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.23,35682
+520,Large Tubes,100,22,358,5,41,No,0,0,Stuttgart,85,Germany,Stein Brunch,,Dortmund,,Germany,Stein Brunch,,Very Urgent,Flatbeds,No,No,No,No,Nil,No,34.2,12843
+690,Stones,182,23,518,7,52,No,0,0,Stuttgart,85,Germany,Stein Brunch,,Linz,,Austria,RTLOG,,Normal,Bulk Carriers,No,No,No,No,Nil,No,11.84,6733
+500,Clothes,195,15,393,5,51,No,0,0,Stuttgart,85,Germany,LKW,,Innsbruck,,Austria,RTLOG,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,32.97,13558
+533,Ketchup,199,15,445,6,41,No,0,0,Stuttgart,85,Germany,LKW,,Kassel,,Germany,Tradeaux,,Normal,Articulated Trailer,No,No,No,No,Nil,No,26.33,12319
+630,Wood Shavings,201,4,956,14,56,No,0,0,Stuttgart,85,Germany,Treeet,,Pecs,,Hungary,Euro Acers,,Normal,Silo,No,No,No,No,Nil,No,8.69,8911
+720,Wood Bark,214,6,476,7,11,No,0,0,Stuttgart,85,Germany,Treeet,,Dortmund,,Germany,Transinet,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,8.19,4498
+429,Forklifts,3,11,359,5,29,No,0,0,Dusseldorf,26,Germany,FCP,,Groningen,,Netherlands,Euro Acers,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,43.11,16076
+409,Cars,10,7,378,5,43,No,0,0,Dusseldorf,26,Germany,Stokes,,Lille,,France,Tradeaux,,Normal,Flatbeds,Yes,No,Yes,No,Nil,No,43.55,17063
+96,Fireworks,28,9,837,12,16,No,0,0,Dusseldorf,26,Germany,Stokes,,Linz,,Austria,Posped,,Very Urgent,Curtainsiders,No,No,Yes,Yes,Class 1- Explosives,No,46.67,39664
+74,Liver Paste,39,17,1173,16,40,No,0,0,Dusseldorf,26,Germany,Stokes,,B.Bystrica,,Slovakia,Stokes,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,35.77,42599
+184,Beans,120,12,895,13,17,Yes,60,300,Dusseldorf,26,Germany,Euro Goodies,,Plymouth,,England,Stokes,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,33.36,30754
+294,Canned Tuna,126,18,689,10,6,No,0,0,Dusseldorf,26,Germany,Euro Goodies,,Prague,,Czech Republic,Sell Plan,,Urgent,Curtainsiders,No,No,No,No,Nil,No,31.43,22258
+3,Boric Acid,4,16,1814,26,1,Yes,60,300,Vienna,94,Austria,CNP,,Sheffield,,England,Transinet,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,47.6,87242
+200,Gasoline,7,21,482,7,4,No,0,0,Vienna,94,Austria,CNP,,Debrecen,,Hungary,Euro Acers,,Very Urgent,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,58.84,28959
+471,Peas,8,18,502,7,26,No,0,0,Vienna,94,Austria,Euro Acers,,Szeged,,Hungary,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.37,14843
+20,Kerosene,17,23,930,14,0,No,0,0,Vienna,94,Austria,NS Oil,,Hamburg,,Germany,Transinet,,Urgent,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,60.75,57096
+219,Used Plastics,35,9,1196,17,24,No,0,0,Vienna,94,Austria,Sell Plan,,Brussels,,Belgium,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,22.28,27252
+291,Used Plastics,35,7,1014,15,25,No,0,0,Vienna,94,Austria,Sell Plan,,kiel,,Germany,Stokes,,Urgent,Container Chassis,No,No,No,No,Nil,No,21.72,22621
+570,Onions,38,7,320,4,37,No,0,0,Vienna,94,Austria,Euro Acers,,B.Bystrica,,Slovakia,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,33.14,11205
+202,Truck Batteries,48,14,983,14,35,No,0,0,Vienna,94,Austria,Stokes,,Metz,,France,Posped,,Urgent,Container Chassis,No,No,No,No,Nil,No,28.7,28813
+300,Empty Pallets,53,22,632,9,35,No,0,0,Vienna,94,Austria,Sell Plan,,Olsztyn,,Poland,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.55,21500
+605,Used Packaging,63,20,351,6,8,No,0,0,Vienna,94,Austria,Sell Plan,,Pecs,,Hungary,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,26.35,9850
+168,Oranges,67,20,1035,15,6,No,0,0,Vienna,94,Italy,Stokes,,Liege,,Belgium,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.1,31757
+113,Salt & Spices,84,12,1352,19,20,No,0,0,Vienna,94,Austria,Stokes,,Calasis,,France,LKW,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,26.56,36505
+115,Motor Oil,85,18,1015,15,4,No,0,0,Vienna,94,Austria,CNP,,Luxembourg,,Luxembourg,ITCC,,Urgent,Curtainsiders,No,No,No,No,Nil,No,35.08,36207
+578,Motor Oil,85,7,783,12,1,No,0,0,Vienna,94,Austria,CNP,,Bialystok,,Poland,ITCC,,Urgent,Container Chassis,No,No,No,No,Nil,No,13.3,11016
+428,Young Seedings,121,3,506,7,31,No,0,0,Vienna,94,Austria,Euro Acers,,Lodz,,Poland,Sell Plan,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.6,16083
+482,Garlic,171,12,492,7,11,No,0,0,Vienna,94,Austria,Euro Goodies,,Debrecen,,Hungary,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.8,14279
+389,Grapes,172,14,580,8,30,No,0,0,Vienna,94,Austria,Euro Acers,,Nurmeberg,,Germany,Stokes,,Normal,Refrigerated,No,No,No,No,Nil,No,29.51,17713
+724,Sheep Wool,224,13,135,2,1,No,0,0,Vienna,94,Austria,Euro Goodies,,Bratislava,,Slovakia,Posped,,Urgent,Curtainsiders,No,No,No,No,Nil,No,27.45,4306
+4,Precast Stairs,5,22,2147,29,28,Yes,60,300,Glasgow,35,England,ITCC,,Venice,,Italy,LKW,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,37.89,82253
+10,Outdoor Floor Tiles ,11,20,1710,23,58,Yes,60,300,Glasgow,35,England,ITCC,,Nurmeberg,,Germany,Sand Builders,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,39.2,67926
+31,Fuel Tanker,27,9,1240,17,0,Yes,60,300,Glasgow,35,England,NBFC,,Luxembourg,,Luxembourg,Stokes,,Very Urgent,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,41.67,52567
+315,Chemicals,112,18,437,5,56,No,0,0,Glasgow,35,England,WGCC,,Sheffield,,England,ITCC,,Urgent,Tank,No,No,No,Yes,Class 2- Gases,No,46.17,20778
+449,Industrial Condenser,119,60,236,6,35,No,0,0,Glasgow,35,England,Government,,Aberdeen,,England,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,63,15513
+207,Wheel Loader,127,15,634,20,0,Yes,370,995,Glasgow,35,England,Stein Brunch,,Amsterdam,,Netherlands,LKW,,Urgent,Low bed,Yes,No,No,No,Nil,No,42.37,28456
+448,Massive Tech Part,156,44,236,6,35,No,0,0,Glasgow,35,England,Government,,Aberdeen,,England,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,63,15513
+609,Acetylene,161,4,502,6,31,No,0,0,Glasgow,35,England,WGCC,,Birmingham,,England,Sand Builders,,Normal,Tank,No,No,Yes,Yes,Class 2- Gases,No,18.14,9708
+483,Garlic,171,12,492,6,45,No,0,0,Glasgow,35,England,Euro Goodies,,Grimsby,,England,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.8,14279
+607,Lead,179,9,489,6,43,No,0,0,Glasgow,35,England,WGCC,,Grimsby,,England,WGCC,,Urgent,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,18.85,9816
+688,Sulphuric Acid,181,14,179,2,25,No,0,0,Glasgow,35,England,WGCC,,Carlisle,,England,Trameri,,Very Urgent,Tank,No,No,No,Yes,Class 8- Corrosive substances,No,34.75,6820
+487,Basil,192,21,492,6,45,No,0,0,Glasgow,35,England,Euro Goodies,,Grimsby,,England,Tradeaux,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,27.44,14102
+6,Gasoline,7,21,1375,20,0,Yes,60,300,London,54,England,NBFC,,Salzburg,,Austria,Stein Brunch,,Normal,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,51.18,75399
+38,Mercury Chloride ,33,15,1251,18,33,Yes,60,300,London,54,England,NBFC,,Salzburg,,Austria,RTLOG,,Normal,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,40.03,50981
+40,Used Plastics,35,7,1833,27,40,Yes,60,300,London,54,England,Sell Plan,,Pecs,,Hungary,Tradeaux,,Very Urgent,Flatbeds,No,No,No,No,Nil,No,26.69,49826
+189,Empty Pallets,53,21,968,13,40,Yes,60,300,London,54,England,Sell Plan,,Geneva,,Switzerland,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,30.05,29987
+320,Olives,54,18,669,8,37,No,0,0,London,54,England,Posped,,Glasgow,,England,Euro Goodies,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.9,20603
+172,Roller- DYCNA CC-2200,65,8,703,10,36,Yes,60,300,London,54,England,Sand Builders,,Duisburg,,Germany,LKW,,Normal,Low bed,Yes,No,No,No,Nil,No,43.45,31446
+306,Frozen Hake,110,17,690,10,20,Yes,60,300,London,54,England,Posped,,Dortmund,,Germany,Kaarfor,,Normal,Refrigerated,No,No,No,No,Nil,No,29.6,21326
+648,Excavator Bucket,136,25,147,2,3,No,0,0,London,54,England,Government,,Felixstowe,,England,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,50.87,8097
+295,Arsenic,138,9,1095,16,15,Yes,60,300,London,54,England,NBFC,,Munich,,Germany,WGCC,,Urgent,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,19.44,22184
+617,Graphite Grease,149,16,279,3,45,No,0,0,London,54,England,NBFC,,Sheffield,,England,ITCC,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,31.55,9403
+647,Huge Tiers,158,20,147,2,3,No,0,0,London,54,England,Government,,Felixstowe,,England,Government,,Normal,Low bed,Yes,No,No,No,Nil,Yes,50.87,8097
+404,Scrap Metals,177,21,1485,21,47,Yes,60,300,London,54,England,Posped,,Garz,,Austria,LKW,,Very Urgent,Bulk Carriers,No,No,No,No,Nil,No,11.04,17297
+118,Peas,8,18,1057,16,4,No,0,0,Olsztyn,68,Poland,Euro Goodies,,Salzburg,,Austria,Sell Plan,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.35,35855
+205,Fuel Tanker,27,10,697,11,32,No,0,0,Olsztyn,68,Poland,Tradeaux,,Dresden,,Germany,Trameri,,Urgent,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,40.43,28783
+379,Used Plastics,35,9,847,12,56,No,0,0,Olsztyn,68,Poland,Sell Plan,,Vienna,,Austria,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,21.01,18393
+408,Tractors,41,5,643,10,45,No,0,0,Olsztyn,68,Poland,Treeet,,B.Bystrica,,Slovakia,Posped,,Very Urgent,Low bed,No,No,No,No,Nil,No,25.6,17064
+215,Empty Pallets,53,21,905,14,50,No,0,0,Olsztyn,68,Poland,Sell Plan,,Osnabruck,,Germany,Transinet,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,30.05,27793
+654,Empty Pallets,53,22,255,4,40,No,0,0,Olsztyn,68,Poland,Treeet,,Bialystok,,Poland,Transinet,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,28.65,7906
+378,Used Packaging,63,20,658,11,44,No,0,0,Olsztyn,68,Poland,Sell Plan,,Prague,,Czech Republic,Tradeaux,,Urgent,Container Chassis,No,No,No,No,Nil,No,27.1,18430
+386,Backhoe Loder,68,8,464,7,23,No,0,0,Olsztyn,68,Poland,Treeet,,Katowice,,Poland,Stein Brunch,,Normal,Low bed,Yes,No,No,No,Nil,No,37.39,17951
+491,Potatoes,86,21,432,6,54,No,0,0,Olsztyn,68,Poland,Tradeaux,,Katowice,,Poland,Posped,,Urgent,Curtainsiders,No,No,No,No,Nil,No,30.72,13870
+701,Sawdust Pannels,91,21,181,3,9,No,0,0,Olsztyn,68,Poland,Treeet,,Warsaw,,Poland,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.5,5759
+177,Lumber,118,17,1294,20,43,No,0,0,Olsztyn,68,Poland,Treeet,,Luxembourg,,Luxembourg,Sand Builders,,Urgent,Low bed,No,No,No,No,Nil,No,23.56,31083
+645,Canned Tuna,126,18,246,4,28,No,0,0,Olsztyn,68,Poland,Euro Goodies,,Bialystok,,Poland,Transinet,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,30.91,8205
+424,Massive Tech Part,156,44,248,4,28,No,0,0,Olsztyn,68,Poland,Government,,Bialystok,,Poland,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,63,16282
+509,Huge Tiers,158,20,248,4,28,No,0,0,Olsztyn,68,Poland,Government,,Bialystok,,Poland,Government,,Normal,Low bed,Yes,No,No,No,Nil,Yes,50.89,13267
+143,Peas,8,18,939,13,39,No,0,0,Reims,78,France,Euro Goodies,,Linz,,Austria,RTLOG,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,35.49,33925
+653,Used Plastics,35,3,666,9,24,Yes,60,300,Reims,78,France,Kaarfor,,Birmingham,,England,Posped,,Urgent,Container Chassis,No,No,No,No,Nil,No,20.57,7938
+694,Beef,50,21,229,3,6,No,0,0,Reims,78,France,Euro Goodies,,Luxembourg,,Luxembourg,LKW,,Normal,Refrigerated,No,No,No,No,Nil,No,25.44,7426
+529,Empty Pallets,53,21,487,7,2,Yes,60,300,Reims,78,France,Kaarfor,,Southampton,,England,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,24.02,12598
+70,Driller - D-50,57,8,874,12,57,No,0,0,Reims,78,France,Stein Brunch,,Dresden,,Germany,Transinet,,Urgent,Low bed,Yes,No,No,No,Nil,No,48.89,43327
+98,Used Packaging,63,20,1487,22,39,No,0,0,Reims,78,France,Kaarfor,,Lublin,,Poland,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,31.51,39182
+236,Haul Truck Chassis,132,55,383,6,0,No,0,0,Reims,78,France,Government,,Strasbourg,,France,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,66.51,26103
+310,Huge Tiers,158,20,383,6,0,No,0,0,Reims,78,France,Government,,Strasbourg,,France,Government,,Normal,Low bed,Yes,No,No,No,Nil,Yes,55.72,21198
+317,Milk,160,20,653,10,26,No,0,0,Reims,78,France,Euro Acers,,Nurmeberg,,Germany,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.78,20697
+566,Milk,160,23,306,6,8,Yes,49,384,Reims,78,France,Euro Acers,,Dover,,England,LKW,,Normal,Tank,No,No,No,No,Nil,No,33.7,11297
+511,Peas,8,18,401,6,7,No,0,0,Osnabruck,69,Germany,transinet,,Mannheim,,Germany,Euro Goodies,,Urgent,Curtainsiders,No,No,No,No,Nil,No,31.57,13259
+266,Steel Cord,19,14,873,12,58,No,0,0,Osnabruck,69,Germany,transinet,,Salzburg,,Austria,RTLOG,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.33,24461
+634,Used Plastics,35,7,397,6,4,No,0,0,Osnabruck,69,Germany,Sell Plan,,Frankfurt,,Germany,Tradeaux,,Normal,Container Chassis,No,No,No,No,Nil,No,20.3,8666
+161,Containerized Trees,90,4,888,13,7,No,0,0,Osnabruck,69,Germany,Euro Goodies,,Linz,,Austria,RTLOG,,Urgent,Curtainsiders,No,No,No,No,Nil,No,35.75,32344
+185,Young Seedings,121,5,592,9,13,No,0,0,Osnabruck,69,Germany,Euro Goodies,,Dresden,,Germany,Sell Plan,,Normal,Articulated Trailer,No,No,No,No,Nil,No,50.69,30607
+710,Sugar,187,21,146,2,21,No,0,0,Osnabruck,69,Germany,transinet,,Bremen,,Germany,Euro Goodies,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,31.37,5180
+629,Basil,192,21,360,5,36,No,0,0,Osnabruck,69,Germany,Euro Goodies,,kiel,,Germany,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,23.1,8915
+649,Vinegar,216,4,563,8,36,No,0,0,Osnabruck,69,Germany,Euro Goodies,,Nurmeberg,,Germany,Stokes,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,13.31,8092
+8,Furniture,9,16,1754,25,10,Yes,60,300,Hanover,39,Germany,ITS,,Aberdeen,,England,Stokes,,Normal,Curtainsiders,No,No,Yes,No,Nil,No,40.38,71726
+221,Silica,30,19,765,12,35,No,0,0,Hanover,39,Germany,Sand Builders,,Olsztyn,,Poland,Tradeaux,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,34.77,27201
+198,Rock Bucket Volvo SPN PT SEG,40,3,890,13,15,No,0,0,Hanover,39,Germany,Stein Brunch,,Geneva,,Switzerland,Treeet,,Normal,Low bed,Yes,No,No,No,Nil,No,32.41,29442
+355,Empty Pallets,53,22,622,9,7,No,0,0,Hanover,39,Germany,FCP,,Lille,,France,Tradeaux,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,30.21,19390
+658,Driller - D-50,57,8,178,3,17,No,0,0,Hanover,39,Poland,Stein Brunch,,Bremen,,Germany,Posped,,Normal,Low bed,Yes,No,No,No,Nil,No,40.33,7779
+426,Used Packaging,63,20,575,8,43,No,0,0,Hanover,39,Germany,ITS,,Brussels,,Belgium,Transinet,,Urgent,Curtainsiders,No,No,No,No,Nil,No,27.1,16180
+187,Airmail,66,10,749,11,5,No,0,0,Hanover,39,Germany,Tradeaux,,Salzburg,,Austria,RTLOG,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,39.91,30495
+268,Industrial Cable Reel,69,34,895,13,7,No,0,0,Hanover,39,Germany,Tradeaux,,Garz,,Austria,RTLOG,,Normal,Low bed,No,Yes,No,No,Nil,No,26.31,24149
+175,High Pressure Side Valves,116,19,752,11,15,No,0,0,Hanover,39,Germany,AI,,Linz,,Austria,RTLOG,,Urgent,Curtainsiders,No,No,No,No,Nil,No,40.7,31209
+241,Scaffolding,130,22,800,11,38,No,0,0,Hanover,39,Germany,ITS,,Paris,,France,Lisette Logistics,,Urgent,Curtainsiders,No,No,No,No,Nil,No,31.7,25964
+329,Empty Barrels,137,9,672,10,9,No,0,0,Hanover,39,Germany,AI,,Zurich,,Switzerland,Stokes,,Urgent,Curtainsiders,No,No,No,No,Nil,No,29.32,20303
+562,Gravel,202,21,677,0,8,No,0,0,Hanover,39,Germany,Stein Brunch,,Zurich,,Switzerland,Posped,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,16.01,11440
+587,Stone Dust,207,22,728,11,6,No,0,0,Hanover,39,Germany,Sand Builders,,Salzburg,,Austria,RTLOG,,Normal,Bulk Carriers,No,No,No,No,Nil,No,13.47,10676
+612,Sand,210,21,499,8,12,No,0,0,Hanover,39,Germany,Sand Builders,,Luxembourg,,Luxembourg,ITCC,,Urgent,Silo,No,No,No,No,Nil,No,17.97,9566
+737,Wood Bark,214,6,246,3,49,No,0,0,Hanover,39,Germany,Tradeaux,,Berlin ,,Germany,Euro Acers,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,7.72,2500
+45,Furniture,9,19,1220,17,59,No,0,0,Venice,92,Italy,LKW,,Rostock,,Germany,Sell Plan,,Normal,Curtainsiders,No,No,Yes,No,Nil,No,39.41,48686
+262,Chicken Meat,22,17,729,10,45,No,0,0,Venice,92,Italy,LKW,,Geneva,,Switzerland,Posped,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,32.92,24602
+594,Used Plastics,35,9,436,6,45,No,0,0,Venice,92,Italy,Sell Plan,,Turin,,Italy,Transinet,,Urgent,Curtainsiders,No,No,No,No,Nil,No,22.67,10482
+382,Apples,51,20,597,8,41,No,0,0,Venice,92,Italy,LKW,,Linz,,Austria,Posped,,Normal,Container Chassis,No,No,No,No,Nil,No,29.41,18158
+439,Empty Pallets,53,22,596,8,38,No,0,0,Venice,92,Italy,Sell Plan,,Linz,,Austria,Posped,,Normal,Container Chassis,No,No,No,No,Nil,No,25.55,15827
+272,Used Packaging,63,20,932,13,30,No,0,0,Venice,92,Italy,Sell Plan,,Katowice,,Poland,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.17,24058
+158,Air Conditioners,107,11,843,12,25,No,0,0,Venice,92,Italy,LKW,,Mannheim,,Germany,Posped,,Normal,Low bed,Yes,No,Yes,No,Nil,No,37.98,32618
+558,Juice Concentrate,133,27,415,6,16,No,0,0,Venice,92,Italy,LKW,,Innsbruck,,Austria,RTLOG,,Normal,Tank,No,Yes,No,No,Nil,No,26.28,11507
+293,Cauliflower,153,9,729,10,48,No,0,0,Venice,92,Italy,Euro Goodies,,Geneva,,Switzerland,Sell Plan,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.8,22325
+431,Pet Food,180,18,728,10,45,No,0,0,Venice,92,Italy,Euro Goodies,,Geneva,,Switzerland,Posped,,Normal,Container Chassis,No,No,No,No,Nil,No,21.23,16054
+9,Cars,10,9,1234,17,54,No,0,0,Paris ,73,France,BHV,,Garz,,Austria,RTLOG,,Very Urgent,Flatbeds,Yes,No,Yes,No,Nil,No,55.34,69391
+368,Cars,10,7,388,5,12,No,0,0,Paris ,73,France,Tradeaux,,Luxembourg,,Luxembourg,LKW,,Urgent,Flatbeds,Yes,No,Yes,No,Nil,No,47.12,18882
+590,Used Plastics,35,3,1014,13,57,No,0,0,Paris ,73,France,Voilureuz,,Innsbruck,,Austria,RTLOG,,Normal,Container Chassis,No,No,No,No,Nil,No,9.81,10552
+685,Roofing Felt,52,19,211,3,20,No,0,0,Paris ,73,France,Tradeaux,,Lille,,France,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,29.94,6917
+501,Empty Pallets,53,22,439,6,2,No,0,0,Paris ,73,France,Voilureuz,,Luxembourg,,Luxembourg,LKW,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,29.43,13520
+551,Empty Pallets,53,22,365,5,40,Yes,60,300,Paris ,73,France,IKA,,London,,England,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,29.43,11641
+345,Used Packaging,63,20,783,11,15,No,0,0,Paris ,73,France,IKA,,Hanover,,Germany,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,24.43,19726
+656,Used Packaging,63,20,284,3,53,No,0,0,Paris ,73,France,Voilureuz,,Lille,,France,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,25.61,7873
+210,Airmail,66,10,686,9,48,No,0,0,Paris ,73,France,FLE,,Stuttgart,,Germany,FLE,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,39.91,27980
+442,Oranges,67,20,532,7,20,No,0,0,Paris ,73,France,FLE,,Amsterdam,,Netherlands,Kaarfor,,Normal,Refrigerated,No,No,No,No,Nil,No,28.32,15668
+212,Potted Flowers,73,3,658,9,34,Yes,60,300,Paris ,73,France,IKA,,Swansea,,England,Posped,,Urgent,Refrigerated,No,No,Yes,No,Nil,No,41.08,27932
+684,Carrots,77,15,249,4,4,Yes,60,300,Paris ,73,France,Lisette Logistics,,Dover,,England,Euro Goodies,,Normal,Container Chassis,No,No,No,No,Nil,No,24.21,6929
+110,Used Car Batteries,82,17,1069,15,16,No,0,0,Paris ,73,France,Lisette Logistics,,Dresden,,Germany,Transinet,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,34.01,36955
+135,Asphalt Miller- AM0880,97,44,658,9,16,Yes,60,300,Paris ,73,France,Tradeaux,,Sheffield,,England,Transinet,,Very Urgent,Low bed,Yes,Yes,No,No,Nil,No,50.73,34282
+138,Plumbing Supplies,99,18,1091,16,37,No,0,0,Paris ,73,France,Lisette Logistics,,Salzburg,,Austria,RTLOG,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.76,34157
+167,Computer Processers,111,3,620,9,1,Yes,60,300,Paris ,73,France,FLE,,Plymouth,,England,Stokes,,Very Urgent,Curtainsiders,Yes,No,Yes,No,Nil,No,50.16,32011
+190,Luxury SUVs,122,11,578,8,23,Yes,60,300,Paris ,73,France,BHV,,Birmingham,,England,Posped,,Normal,Flatbeds,Yes,No,Yes,No,Nil,No,50.3,29975
+489,Empty Barrels,137,9,520,7,14,No,0,0,Paris ,73,France,Voilureuz,,Amsterdam,,Netherlands,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.62,13925
+469,Metal Centering,145,28,388,50,10,No,0,0,Paris ,73,France,Tradeaux,,Luxembourg,,Luxembourg,ITCC,,Very Urgent,Low bed,No,Yes,No,No,Nil,No,36.93,14930
+77,Cars,10,7,973,14,15,No,0,0,Berlin,3,Germany,BCP,,Verona,,Italy,Posped,,Normal,Flatbeds,Yes,No,Yes,No,Nil,No,43.06,42500
+235,Roller- DYCNA CC-2200,65,8,587,9,5,No,0,0,Berlin,3,Germany,Sand Builders,,Amsterdam,,Netherlands,LKW,,Normal,Low bed,Yes,No,No,No,Nil,No,43.45,26107
+331,Oranges,67,20,670,9,54,No,0,0,Berlin,3,Germany,Euro Goodies,,Salzburg,,Austria,RTLOG,,Normal,Refrigerated,No,No,No,No,Nil,No,29.21,20173
+100,Mozzarela,76,20,1053,15,18,No,0,0,Berlin,3,Germany,Euro Goodies,,Geneva,,Switzerland,Posped,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,36.08,38594
+127,Nitrogen,92,7,664,10,4,No,0,0,Berlin,3,Germany,NBFC,,Rotterdam,,Netherlands,WGCC,,Very Urgent,Tank,No,No,Yes,Yes,Class 2- Gases,No,52.38,35379
+131,Fuel Oil,93,23,709,10,24,No,0,0,Berlin,3,Germany,NBFC,,Innsbruck,,Austria,RTLOG,,Normal,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,48.36,34890
+178,Asphalt Miller- AM0880,97,44,599,9,12,No,0,0,Berlin,3,Germany,Sand Builders,,Linz,,Austria,RTLOG,,Very Urgent,Low bed,Yes,Yes,No,No,Nil,No,50.73,30986
+531,Industrial Condenser,119,60,187,2,48,No,0,0,Berlin,3,Germany,Government,,Szczecin,,Poland,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,62.99,12390
+646,Rye,169,21,392,6,4,No,0,0,Berlin,3,Germany,Euro Acers,,Lodz,,Poland,Posped,,Urgent,Silo,No,No,No,No,Nil,No,19.16,8112
+560,High-Tech Device,174,45,187,2,48,No,0,0,Berlin,3,Germany,Government,,Szczecin,,Poland,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,58.15,11484
+433,Sulphuric Acid,181,14,449,6,42,No,0,0,Berlin,3,Germany,NBFC,,Nurmeberg,,Germany,Trameri,,Urgent,Tank,No,No,No,Yes,Class 8- Corrosive substances,No,31.37,16034
+136,Cars,10,10,653,11,9,No,0,0,Prague,77,Czech Republic,Scout,,Gdansk,,Poland,LKW,,Urgent,Flatbeds,Yes,No,Yes,No,Nil,No,53.03,34275
+54,Excavator Volvo EC220E,44,20,1005,14,58,No,0,0,Prague,77,Czech Republic,Stein Brunch,,Rotterdam,,Netherlands,Sand Builders,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,45.6,46432
+231,Excavator Volvo EW240E MH,45,26,667,10,13,No,0,0,Prague,77,Czech Republic,Stein Brunch,,Dortmund,,Germany,Treeet,,Normal,Flatbeds,Yes,Yes,No,No,Nil,No,38.65,26378
+518,Empty Pallets,53,22,445,6,34,No,0,0,Prague,77,Czech Republic,Sell Plan,,Frankfurt,,Germany,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,27.57,12868
+121,Used Packaging,63,20,1347,19,36,Yes,60,300,Prague,77,Czech Republic,Sell Plan,,Felixstowe,,England,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.91,35802
+367,Large Tubes,100,22,535,8,2,No,0,0,Prague,77,Czech Republic,Stein Brunch,,Garz,,Austria,FCP,,Very Urgent,Low bed,No,No,No,No,Nil,No,34.2,18896
+222,Caviar,128,14,741,10,30,No,0,0,Prague,77,Czech Republic,Euro Goodies,,Debrecen,,Hungary,Euro Goodies,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,35.81,27136
+546,Smoked Sparts,131,17,323,4,38,No,0,0,Prague,77,Czech Republic,Tradeaux,,Ostrava,,Czech Republic,Kaarfor,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,34.46,11731
+303,Haul Truck Chassis,132,55,321,5,21,No,0,0,Prague,77,Czech Republic,Government,,Nurmeberg,,Germany,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,64.76,21413
+302,Massive Tech Part,156,44,321,5,21,No,0,0,Prague,77,Czech Republic,Government,,Nurmeberg,,Germany,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,64.76,21413
+497,Lamb Stomachs,170,13,439,7,30,No,0,0,Prague,77,Czech Republic,Euro Goodies,,Lodz,,Poland,LKW,,Normal,Refrigerated,No,No,No,No,Nil,No,29.6,13595
+393,Almond,173,17,559,7,49,No,0,0,Prague,77,Czech Republic,Tradeaux,,Budapest,,Hungary,Kaarfor,,Urgent,Curtainsiders,No,No,No,No,Nil,No,30.46,17626
+589,Gravel,202,21,622,10,18,No,0,0,Prague,77,Czech Republic,Stein Brunch,,Warsaw,,Poland,Posped,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,16.01,10559
+240,Cars,10,10,483,7,9,Yes,60,300,Birmingham,7,England,BCP,,Lille,,France,Tradeaux,,Urgent,Flatbeds,Yes,No,Yes,No,Nil,No,51.93,25984
+211,Cheese,18,18,752,10,46,Yes,60,300,Birmingham,7,England,Posped,,Rotterdam,,Netherlands,Transinet,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,35.99,27962
+47,Rock Bucket Volvo SPN PT SEG,40,3,1303,18,54,Yes,60,300,Birmingham,7,England,Sand Builders,,Leipzig ,,Germany,Treeet,,Urgent,Low bed,Yes,No,No,No,Nil,No,36.14,47995
+375,Tractors,41,11,360,4,40,No,0,0,Birmingham,7,England,Treeet,,Plymouth,,England,Euro Acers,,Very Urgent,Low bed,No,No,No,No,Nil,No,49.9,18564
+99,Fuel Tanks,43,10,1121,16,18,Yes,60,300,Birmingham,7,England,Posped,,Bremen,,Germany,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,33.79,38777
+608,Empty Pallets,53,22,321,4,15,No,0,0,Birmingham,7,England,Treeet,,Dover,,England,LKW,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,28.65,9798
+124,Sawdust Pannels,91,21,1072,16,43,Yes,60,300,Birmingham,7,England,Treeet,,Hanover,,Germany,Stein Brunch,,Normal,Curtainsiders,No,No,No,No,Nil,No,32.32,35545
+387,Mobile Crane - UTM SD-833,113,36,360,4,40,No,0,0,Birmingham,7,England,Treeet,,Plymouth,,England,Stokes,,Urgent,Low bed,Yes,Yes,No,No,Nil,No,47.67,17761
+238,Juice Concentrate,133,23,1050,14,22,Yes,60,300,Birmingham,7,England,Posped,,Dijon,,France,Euro Goodies,,Normal,Tank,No,No,No,No,Nil,No,23.64,26039
+526,Outdoor Floor Tiles ,11,20,364,5,7,No,0,0,Kosice,45,Slovakia,ITCC,,Krakow,,Poland,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.2,12686
+11,Shock Absorbers,12,16,1464,20,47,No,0,0,Kosice,45,Slovakia,LKW,,Geneva,,Switzerland,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,44.88,66309
+41,Train Undercarriage,25,20,929,14,33,No,0,0,Kosice,45,Slovakia,ITCC,,Szczecin,,Poland,Transinet,,Very Urgent,Flatbeds,Yes,No,No,No,Nil,No,52.96,49797
+679,Iron Pipes,31,18,224,3,29,No,0,0,Kosice,45,Slovakia,ITCC,,Budapest,,Hungary,Tradeaux,,Very Urgent,Low bed,No,No,No,No,Nil,No,29.07,7111
+555,Used Plastics,35,9,539,9,21,No,0,0,Kosice,45,Poland,LKW,,Bialystok,,Poland,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,20.37,11578
+706,Used Plastics,35,7,248,3,34,No,0,0,Kosice,45,Slovakia,Sell Plan,,B.Bystrica,,Slovakia,Posped,,Urgent,Container Chassis,No,No,No,No,Nil,No,19.39,5409
+418,Liver Paste,39,17,560,8,8,No,0,0,Kosice,45,Slovakia,LKW,,Lodz,,Poland,LKW,,Normal,Refrigerated,No,No,No,No,Nil,No,28.77,16714
+466,Empty Pallets,53,22,488,6,47,No,0,0,Kosice,45,Slovakia,Sell Plan,,Vienna,,Austria,CNP,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,29.43,14964
+277,Olives,54,18,777,11,4,No,0,0,Kosice,45,Slovakia,LKW,,Dresden,,Germany,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.9,23831
+697,Used Packaging,63,20,248,3,34,No,0,0,Kosice,45,Slovakia,Sell Plan,,B.Bystrica,,Slovakia,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,22.19,6104
+547,Computer Processers,111,3,248,3,33,No,0,0,Kosice,45,Slovakia,LKW,,B.Bystrica,,Slovakia,Posped,,Urgent,Curtainsiders,Yes,No,Yes,No,Nil,No,44.85,11724
+343,Metal Beams,167,21,680,9,28,No,0,0,Kosice,45,Slovakia,LKW,,Garz,,Austria,Stein Brunch,,Urgent,Flatbeds,No,No,No,No,Nil,No,28.16,19746
+493,High-Tech Device,174,45,227,3,35,No,0,0,Kosice,45,Slovakia,Government,,Budapest,,Germany,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,58.15,13825
+507,Gaint Silo,194,40,227,3,35,No,0,0,Kosice,45,Slovakia,Government,,Budapest,,Hungary,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,55.73,13274
+102,Logs,13,22,1238,17,47,Yes,60,300,Manchester,59,England,Treeet,,Hanover,,Germany,Tradeaux,,Urgent,Flatbeds,No,No,No,No,Nil,No,30.32,38432
+28,Nylon Cord,24,13,1582,22,13,Yes,60,300,Manchester,59,England,LKW,,Innsbruck,,Austria,RTLOG,,Urgent,Curtainsiders,No,No,No,No,Nil,No,32.76,52728
+444,Empty Pallets,53,22,586,7,56,No,0,0,Manchester,59,England,Treeet,,Aberdeen,,England,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.55,15572
+602,Empty Pallets,53,22,299,15,22,Yes,30,995,Manchester,59,England,FCP,,Amsterdam,,Netherlands,Stokes,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,28.65,10162
+638,Nuts,62,18,223,14,17,Yes,370,995,Manchester,59,England,LKW,,Rotterdam,,Netherlands,Transinet,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,31.02,8512
+610,Backhoe Loder,68,8,228,14,20,Yes,370,995,Manchester,59,England,Treeet,,Rotterdam,,Netherlands,Posped,,Normal,Low bed,Yes,No,No,No,Nil,No,35.43,9672
+155,Pesticides,105,10,1751,24,59,Yes,60,300,Manchester,59,England,WGCC,,Brno,,Czech Republic,Euro Acers,,Normal,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,18.22,32807
+258,Arsenic,138,9,1133,15,34,Yes,60,300,Manchester,59,England,WGCC,,Strasbourg,,France,WGCC,,Very Urgent,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,21.2,24919
+672,Beverages,148,21,233,3,6,No,0,0,Manchester,59,England,LKW,,Newcastle,,England,Sell Plan,,Normal,Container Chassis,No,No,Yes,No,Nil,No,29.26,7418
+661,Sulphuric Acid,181,14,205,2,50,No,0,0,Manchester,59,England,WGCC,,Carlisle,,England,Trameri,,Very Urgent,Tank,No,No,No,Yes,Class 8- Corrosive substances,No,34.76,7726
+731,Wood Shavings,201,4,418,5,28,No,0,0,Manchester,59,England,Treeet,,Felixstowe,,England,Tradeaux,,Normal,Bulk Carriers,No,No,No,No,Nil,No,7.36,3675
+728,Wood Bark,214,6,303,15,26,Yes,370,995,Manchester,59,England,Treeet,,Amsterdam,,Netherlands,Stokes,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,7.95,4005
+192,Logs,13,22,1090,16,59,No,0,0,Bialystok,6,Poland,Treeet,,Frankfurt,,Germany,Tradeaux,,Normal,Flatbeds,No,No,No,No,Nil,No,26.69,29697
+642,Iron Pipes,31,18,261,4,22,No,0,0,Bialystok,6,Poland,ITCC,,Lodz,,Poland,LKW,,Very Urgent,Flatbeds,No,No,No,No,Nil,No,29.88,8399
+576,Apples,51,9,782,12,7,No,0,0,Bialystok,6,Poland,transinet,,Dresden,,Germany,Sell Plan,,Normal,Container Chassis,No,No,No,No,Nil,No,13.37,11053
+66,Empty Pallets,53,21,1441,21,11,No,0,0,Bialystok,6,Poland,Treeet,,Zurich,,Switzerland,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,30.8,44061
+72,Floor Pannels,59,19,1487,22,5,No,0,0,Bialystok,6,Poland,transinet,,Lille,,France,Tradeaux,,Urgent,Low bed,No,No,No,No,Nil,No,28.38,42806
+553,Wooden Beams,115,21,393,7,9,No,0,0,Bialystok,6,Poland,Treeet,,Gdansk,,Poland,Euro Acers,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.06,11628
+288,Canned Beef,151,21,814,12,30,No,0,0,Bialystok,6,Poland,transinet,,Rostock,,Germany,Sell Plan,,Normal,Refrigerated,No,No,No,No,Nil,No,27.19,22734
+523,Metal Beams,167,24,446,7,5,No,0,0,Bialystok,6,Poland,ITCC,,Katowice,,Poland,Stein Brunch,,Normal,Flatbeds,No,No,No,No,Nil,No,27.34,12794
+480,Cottage Cheese,191,18,419,7,14,No,0,0,Bialystok,6,Poland,Euro Acers,,Krakow,,Poland,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.05,14447
+577,Coal,204,21,782,12,3,No,0,0,Bialystok,6,Poland,transinet,,Dresden,,Germany,Transinet,,Normal,Bulk Carriers,No,No,No,No,Nil,No,13.32,11019
+564,Logs,13,22,390,13,41,Yes,207,960,Felixstowe,29,England,Treeet,,Groningen,,Netherlands,Euro Acers,,Normal,Flatbeds,No,No,No,No,Nil,No,25.12,11356
+21,Cheese,18,18,1472,20,45,Yes,60,300,Felixstowe,29,England,Tradeaux,,Verona,,Italy,Posped,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,37.84,56596
+52,Steel Cord,19,14,1582,22,58,Yes,60,300,Felixstowe,29,England,LKW,,Garz,,Austria,RTLOG,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.95,46694
+35,Train Undercarriage,25,20,1003,13,40,Yes,60,300,Felixstowe,29,England,Tradeaux,,Lyon,,France,Tradeaux,,Urgent,Low bed,Yes,No,No,No,Nil,No,50.19,51239
+39,Reservior Tank,34,11,1231,19,0,Yes,60,300,Felixstowe,29,England,Tradeaux,,Lyon,,France,Tradeaux,,Urgent,Flatbeds,Yes,No,No,No,Nil,No,50.1,51239
+265,Excavator Volvo EW240E MH,45,26,610,8,54,Yes,60,300,Felixstowe,29,England,Treeet,,Liege,,Belgium,Treeet,,Normal,Low bed,Yes,Yes,No,No,Nil,No,38.65,24474
+339,Empty Pallets,53,22,626,9,5,Yes,60,300,Felixstowe,29,England,Treeet,,Luxembourg,,Luxembourg,LKW,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,30.21,19809
+677,Empty Pallets,53,22,221,4,46,Yes,49,384,Felixstowe,29,England,LKW,,Calasis,,France,Stokes,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,27.87,7143
+402,Lumber,118,17,679,9,3,No,0,0,Felixstowe,29,England,Treeet,,Edinburgh,,England,Sand Builders,,Urgent,Flatbeds,No,No,No,No,Nil,No,24.63,17326
+727,Juice Concentrate,133,23,163,2,13,No,0,0,Felixstowe,29,England,Tradeaux,,London,,England,Posped,,Normal,Tank,No,No,No,No,Nil,No,21.11,4041
+473,Chemical Sorbent,141,4,1030,15,4,Yes,60,300,Felixstowe,29,England,Tradeaux,,Stuttgart,,Germany,LKW,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,13.51,14818
+516,Goat Cheese,162,15,423,5,33,No,0,0,Felixstowe,29,England,LKW,,Manchester,,England,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.37,13022
+443,Tableware,184,16,384,13,36,Yes,207,960,Felixstowe,29,England,LKW,,Groningen,,England,Sell Plan,,Normal,Curtainsiders,No,No,Yes,No,Nil,No,26.69,15648
+718,Wood Bark,214,6,406,13,56,Yes,207,960,Felixstowe,29,England,Treeet,,Osnabruck,,Germany,Euro Acers,,Normal,Bulk Carriers,No,No,No,No,Nil,No,7.36,4548
+719,Reinforcing Bars,222,21,129,9,59,Yes,207,960,Felixstowe,29,England,LKW,,Rotterdam,,Netherlands,Transinet,,Normal,Flatbeds,No,No,No,No,Nil,No,23.06,4535
+15,Helicopter- 1808TX,14,3,1063,15,24,Yes,60,300,Frankfurt,30,Germany,Tradeaux,,Brimingham,,England,Posped,,Normal,Low bed,Yes,No,Yes,No,Nil,No,58.4,62979
+232,Train Undercarriage,25,20,537,7,56,No,0,0,Frankfurt,30,Germany,Tradeaux,,Brussels,,Belgium,Transinet,,Urgent,Low bed,Yes,No,No,No,Nil,No,47.88,26310
+582,Oil,26,23,265,4,4,No,0,0,Frankfurt,30,Germany,Tradeaux,,Dortmund,,Germany,Treeet,,Urgent,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,39.11,10965
+502,Empty Pallets,53,22,519,7,54,No,0,0,Frankfurt,30,Germany,Kaarfor,,Hamburg,,Germany,Transinet,,Normal,Container Chassis,No,No,No,No,Nil,No,24.77,13457
+377,Ventilation Shaft,55,4,490,7,42,No,0,0,Frankfurt,30,Germany,WGCC,,Berlin ,,Germany,Sand Builders,,Very Urgent,Flatbeds,No,No,No,No,Nil,No,36.49,18482
+618,Used Packaging,63,20,369,6,26,No,0,0,Frankfurt,30,Germany,Kaarfor,,Luxembourg,,Luxembourg,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,23.68,9338
+374,Sawdust Pannels,91,21,532,7,56,No,0,0,Frankfurt,30,Germany,Treeet,,Amsterdam,,Netherlands,LKW,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.84,18602
+234,Wooden Beams,115,21,858,12,55,No,0,0,Frankfurt,30,Germany,Treeet,,Krakow,,Poland,Euro Acers,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.83,26190
+244,Penaut Butter,134,19,764,11,36,No,0,0,Frankfurt,30,Germany,Tradeaux,,Katowice,,Poland,Stokes,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,32.98,25798
+292,Potassium  Hyderoxide,152,19,524,7,48,No,0,0,Frankfurt,30,Germany,WGCC,,Salzburg,,Austria,RTLOG,,Normal,Tank,No,No,No,Yes,Class 8- Corrosive substances,No,41.5,22344
+729,Wood Shavings,201,4,413,6,30,No,0,0,Frankfurt,30,Germany,Treeet,,Dresden,,Germany,Transinet,,Normal,Silo,No,No,No,No,Nil,No,8.18,3977
+19,Articulated Hauler Volvo A25G,16,25,1306,18,41,No,0,0,Klagenfurt,44,Austria,Tradeaux,,Paris,,France,Lisette Logistics,,Urgent,Low bed,Yes,Yes,No,No,Nil,No,43.91,57950
+365,Crawl Tractor,23,13,426,6,24,No,0,0,Klagenfurt,44,Austria,Treeet,,Innsbruck,,Austria,RTLOG,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,43.11,18964
+201,Fuel Tanker,27,9,762,11,13,No,0,0,Klagenfurt,44,Austria,Kathode,,Lodz,,Poland,Posped,,Urgent,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,37.18,28933
+204,Reservior Tank,34,11,742,10,52,No,0,0,Klagenfurt,44,Austria,Trameri,,Lodz,,Poland,Posped,,Very Urgent,Flatbeds,No,No,No,No,Nil,No,38.02,28809
+153,Used Plastics,35,9,1322,19,8,No,0,0,Klagenfurt,44,Austria,Tradeaux,,Calasis,,France,Stokes,,Urgent,Curtainsiders,No,No,No,No,Nil,No,24.58,33098
+674,Used Plastics,35,3,598,9,11,No,0,0,Klagenfurt,44,Austria,Sell Plan,,Debrecen,,Hungary,Transinet,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,11.26,7334
+42,Dry milk,36,18,1396,20,44,Yes,60,300,Klagenfurt,44,Austria,Euro Acers,,London,,England,Sell Plan,,Urgent,Curtainsiders,No,No,No,No,Nil,No,34.53,49104
+157,Roofing Felt,52,19,899,13,51,No,0,0,Klagenfurt,44,Austria,Trameri,,Lublin,,Poland,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,35.67,32664
+73,Watermelons,60,20,1148,17,18,No,0,0,Klagenfurt,44,Austria,Euro Acers,,Olsztyn,,Poland,Euro Goodies,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,36.62,42641
+635,Used Packaging,63,20,347,5,6,No,0,0,Klagenfurt,44,Austria,Sell Plan,,Brno,,Czech Republic,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,22.94,8559
+139,Roof Tiles,64,20,942,13,48,No,0,0,Klagenfurt,44,Austria,Trameri,,Geneva,,Switzerland,Posped,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,35.61,34142
+90,Low Bed Semi Trailers,72,17,1003,16,1,No,0,0,Klagenfurt,44,Austria,Kathode,,Lyon,,France,Trameri,,Urgent,Low bed,No,No,No,No,Nil,No,36,40604
+309,Salt & Spices,84,16,753,11,38,No,0,0,Klagenfurt,44,Austria,Euro Goodies,,Strasbourg,,France,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.41,21237
+123,Containerized Trees,90,4,981,14,19,No,0,0,Klagenfurt,44,Austria,Euro Acers,,Reims,,France,Kaarfor,,Urgent,Curtainsiders,No,No,No,No,Nil,No,35.75,35670
+725,Brake Fluids,143,2,347,5,6,No,0,0,Klagenfurt,44,Austria,Tradeaux,,Brno,,Czech Republic,LKW,,Normal,Container Chassis,No,No,No,No,Nil,No,10.6,4290
+557,Lamb Stomachs,170,13,370,5,28,No,0,0,Klagenfurt,44,Austria,Tradeaux,,Venice,,Italy,Sell Plan,,Normal,Refrigerated,No,No,No,No,Nil,No,29.3,11553
+738,Wood Shavings,201,4,191,3,1,No,0,0,Klagenfurt,44,Austria,Treeet,,klagenfurt,,Austria,Tradeaux,,Very Urgent,Bulk Carriers,No,No,No,No,Nil,No,8.28,2181
+580,Olive Oil,206,27,313,4,45,No,0,0,Klagenfurt,44,Austria,Euro Goodies,,Salzburg,,Austria,RTLOG,,Normal,Tank,No,Yes,No,No,Nil,No,33.24,11004
+247,Articulated Hauler Volvo A25G,16,25,594,8,44,No,0,0,Kiel,43,Germany,Stokes,,Rotterdam,,Netherlands,Transinet,,Urgent,Low bed,Yes,Yes,No,No,Nil,No,41.93,25509
+128,Atlantic Cod Fillet,75,16,1025,15,32,No,0,0,Kiel,43,Germany,Euro Goodies,,Vienna,,Austria,Euro Goodies,,Urgent,Refrigerated,No,No,No,No,Nil,No,33.86,35302
+380,Canned Beans,89,16,644,9,38,No,0,0,Kiel,43,Germany,Stokes,,Liege,,Belgium,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.55,19344
+133,Disinfectant,95,16,1018,14,58,No,0,0,Kiel,43,Germany,Posped,,Linz,,Austria,RTLOG,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.4,34499
+137,Pork,98,18,1140,16,53,No,0,0,Kiel,43,Germany,Posped,,Geneva,,Switzerland,Posped,,Normal,Refrigerated,No,No,No,No,Nil,No,29.49,34217
+559,Tomatoes,117,18,346,5,21,No,0,0,Kiel,43,Germany,Euro Goodies,,Osnabruck,,Germany,Sell Plan,,Urgent,Refrigerated,No,No,No,No,Nil,No,31.5,11498
+196,Plastic Flim Rolls,124,18,1001,14,40,No,0,0,Kiel,43,Germany,Stokes,,Paris,,France,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,28.96,29584
+723,Wind Turbine Tower,223,9,157,2,49,No,0,0,Kiel,43,Germany,Posped,,Hamburg,,Germany,LKW,,Very Urgent,Low bed,No,No,No,No,Nil,No,23.75,4328
+55,Kerosene,17,23,725,10,30,No,0,0,Munich,63,Germany,WGCC,,Budapest,,Hungary,NBFC,,Very Urgent,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,63.02,46287
+350,Mercury Chloride ,33,7,959,13,55,No,0,0,Munich,63,Germany,WGCC,,Calasis,,France,NBFC,,Urgent,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,19.77,19564
+565,Used Plastics,35,9,474,7,2,No,0,0,Munich,63,Germany,Kaarfor,,Verona,,Italy,Posped,,Urgent,Curtainsiders,No,No,No,No,Nil,No,22.66,11343
+252,Watermelons,60,20,755,11,55,No,0,0,Munich,63,Germany,Euro Goodies,,Pecs,,Hungary,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,32.68,25274
+369,Used Packaging,63,20,748,11,11,No,0,0,Munich,63,Germany,Kaarfor,,Hamburg,,Germany,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,24.43,18870
+337,White Phosphorus,163,10,480,7,18,No,0,0,Munich,63,Germany,WGCC,,Bratislava,,Slovakia,WGCC,,Very Urgent,Tank,No,No,Yes,Yes,Class 4- Flammable Solids,No,40.14,19866
+461,High-Tech Device,174,45,249,4,2,No,0,0,Munich,63,Germany,Government,,Salzburg,,Austria,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,58.15,15126
+460,Boiler Part,176,45,249,4,2,No,0,0,Munich,63,Germany,Government,,Salzburg,,Austria,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,58.15,15126
+492,Pesto,193,18,444,6,39,No,0,0,Munich,63,Germany,Euro Goodies,,Bern,,Switzerland,Kaarfor,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.84,13848
+22,Steel Cord,19,14,1640,23,28,Yes,60,300,Sheffield,82,England,transinet,,Linz,,Austria,RTLOG,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,33.78,56307
+356,Used Plastics,35,7,938,13,35,Yes,60,300,Sheffield,82,England,Sell Plan,,Dusseldorf,,Germany,Stokes,,Normal,Container Chassis,No,No,No,No,Nil,No,19.63,19313
+381,Tracks,47,11,433,7,38,Yes,49,384,Sheffield,82,England,Stein Brunch,,Calasis,,France,Stokes,,Very Urgent,Low bed,No,No,No,No,Nil,No,39.67,18162
+561,Ventilation Shaft,55,4,327,4,22,No,0,0,Sheffield,82,England,ITCC,,Felixstowe,,England,LKW,,Urgent,Flatbeds,No,No,No,No,Nil,No,32.22,11462
+704,Driller - D-50,57,8,121,1,47,No,0,0,Sheffield,82,England,Stein Brunch,,Grimsby,,England,Tradeaux,,Normal,Low bed,Yes,No,No,No,Nil,No,40.32,5479
+664,Floor Pannels,59,21,282,3,44,No,0,0,Sheffield,82,England,ITCC,,London,,England,Posped,,Normal,Low bed,No,No,No,No,Nil,No,25,7649
+208,Used Packaging,63,20,1091,15,36,Yes,60,300,Sheffield,82,England,Sell Plan,,Osnabruck,,Germany,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,35.17,28360
+514,Maple Syrup,80,17,445,6,0,No,0,0,Sheffield,82,England,transinet,,Glasgow,,England,Euro Goodies,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.18,13141
+481,Asphalt Miller- AM0880,97,44,332,5,9,No,0,0,Sheffield,82,England,transinet,,Cardiff,,England,Stokes,,Normal,Low bed,Yes,Yes,No,No,Nil,No,41.69,14440
+305,Large Tubes,100,22,591,8,23,No,0,0,Sheffield,82,England,ITCC,,Aberdeen,,England,NBFC,,Very Urgent,Flatbeds,No,No,No,No,Nil,No,35.1,21343
+600,Massive Tech Part,156,44,152,2,26,No,0,0,Sheffield,82,England,Government,,Birmingham,,England,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,62.99,10177
+643,Huge Tiers,158,20,152,2,26,No,0,0,Sheffield,82,England,Government,,Birmingham,,England,Government,,Normal,Low bed,Yes,No,No,No,Nil,Yes,50.88,8336
+434,Stones,182,23,1162,15,56,Yes,60,300,Sheffield,82,England,Stein Brunch,,Lyon,,France,Batisse,,Normal,Bulk Carriers,No,No,No,No,Nil,No,12.95,15953
+326,Steel Cord,19,14,672,9,18,No,0,0,Luxembourg,56,Luxembourg,LKW,,Milan,,Italy,Spinelli,,Urgent,Curtainsiders,No,No,No,No,Nil,No,29.43,20376
+58,Metal Coil,46,24,1232,19,40,No,0,0,Luxembourg,56,Luxembourg,ITCC,,Gandnsk,,Poland,BCP,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,36.7,45811
+126,Tracks,47,11,850,12,14,Yes,60,300,Luxembourg,56,Luxembourg,LKW,,Sheffield,,England,Stein Brunch,,Very Urgent,Low bed,No,No,No,No,Nil,No,40.72,35514
+666,Floor Pannels,59,21,281,4,0,No,0,0,Luxembourg,56,Luxembourg,LKW,,Lille,,France,Tradeaux,,Normal,Low bed,No,No,No,No,Nil,No,25,7624
+430,Asphalt Miller- AM0880,97,44,319,5,24,No,0,0,Luxembourg,56,Luxembourg,Sand Builders,,Duisburg,,Germany,LKW,,Very Urgent,Low bed,Yes,Yes,No,No,Nil,No,48.47,16061
+156,Cut Flowers,106,1,977,14,27,No,0,0,Luxembourg,56,Luxembourg,LKW,,Garz,,Austria,LKW,,Normal,Refrigerated,No,No,No,No,Nil,No,32.82,32666
+419,Beverages,148,23,435,7,46,No,0,0,Luxembourg,56,Luxembourg,LKW,,Kassel,,Germany,Tradeaux,,Very Urgent,Tank,No,No,Yes,No,Nil,No,36.52,16487
+625,High-Tech Device,174,45,145,2,40,No,0,0,Luxembourg,56,Luxembourg,Government,,Liege,,Belgium,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,58.14,9039
+626,Boiler Part,176,45,145,2,40,No,0,0,Luxembourg,56,Luxembourg,Government,,Liege,,Belgium,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,58.14,9039
+436,Concrete Beams,183,17,835,12,23,No,0,0,Luxembourg,56,Luxembourg,ITCC,,Linz,,Austria,RTLOG,,Normal,Flatbeds,No,No,No,No,Nil,No,18.36,15927
+23,Radiators,20,9,1273,16,34,No,0,0,Verona,93,Italy,Posped,,Warsaw,,Poland,Stokes,,Urgent,Curtainsiders,No,No,No,No,Nil,No,42.48,54674
+467,Used Plastics,35,9,616,9,1,No,0,0,Verona,93,Italy,Posped,,Linz,,Austria,Posped,,Urgent,Curtainsiders,No,No,No,No,Nil,No,23.3,14953
+545,Used Plastics,35,9,548,8,7,No,0,0,Verona,93,Italy,Kaarfor,,Garz,,Austria,RTLOG,,Normal,Curtainsiders,No,No,No,No,Nil,No,20.37,11761
+616,Used Plastics,35,7,480,7,6,No,0,0,Verona,93,Italy,Kaarfor,,klagenfurt,,Austria,Tradeaux,,Normal,Container Chassis,No,No,No,No,Nil,No,18.47,9465
+64,Apples,51,20,1297,19,4,No,0,0,Verona,93,Italy,Euro Acers,,Warsaw,,Poland,Stokes,,Urgent,Curtainsiders,No,No,No,No,Nil,No,34.42,45238
+216,Plums,58,16,782,11,36,No,0,0,Verona,93,Italy,Euro Acers,,Dijon,,France,Euro Goodies,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,34.77,27792
+163,Rice,109,22,949,13,45,No,0,0,Verona,93,Italy,Posped,,Ostrava,,Czech Republic,Transinet,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.41,32306
+24,Concrete Stairs,21,19,2101,30,1,Yes,60,300,Warsaw,95,Poland,Posped,,Carlisle,,England,Posped,,Very Urgent,Low bed,No,No,No,No,Nil,No,25.11,53663
+50,Rock Bucket Volvo SPN PT SEG,40,3,1279,19,43,No,0,0,Warsaw,95,Poland,Sand Builders,,Metz,,France,Posped,,Urgent,Low bed,Yes,No,No,No,Nil,No,36.14,46827
+278,Excavator Volvo EW240E MH,45,26,598,9,42,No,0,0,Warsaw,95,Poland,Stokes,,Debrecen,,Hungary,Transinet,,Normal,Low bed,Yes,Yes,No,No,Nil,No,38.65,23711
+227,Roofing Felt,52,19,756,11,13,No,0,0,Warsaw,95,Poland,Trameri,,Linz,,Austria,RTLOG,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,34.77,26887
+549,Used Packaging,63,20,420,6,57,No,0,0,Warsaw,95,Poland,Trameri,,Kosice,,Slovakia,LKW,,Urgent,Curtainsiders,No,No,No,No,Nil,No,26.35,11669
+662,Soy Milk,101,21,249,3,46,No,0,0,Warsaw,95,Poland,Posped,,Katowice,,Poland,Posped,,Urgent,Curtainsiders,No,No,No,No,Nil,No,28.45,7684
+452,Huge Tiers,158,20,284,4,21,No,0,0,Warsaw,95,Poland,Government,,Katowice,,Poland,Government,,Normal,Low bed,Yes,No,No,No,Nil,Yes,52.29,15467
+394,High-Tech Device,174,45,284,4,21,No,0,0,Warsaw,95,Poland,Government,,Katowice,,Poland,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,59.77,17593
+26,Chicken Meat,22,17,1742,24,50,No,0,0,Szeged,88,Hungary,Euro Acers,,Calasis,,France,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.39,53553
+33,Electronics,29,8,1123,16,11,No,0,0,Szeged,88,Hungary,LKW,,Madeburg,,Germany,Sell Plan,,Very Urgent,Curtainsiders,No,No,Yes,No,Nil,No,46.24,52530
+316,Roofing Felt,52,19,616,8,53,No,0,0,Szeged,88,Hungary,Posped,,Linz,,Austria,Posped,,Urgent,Curtainsiders,No,No,No,No,Nil,No,32.63,20697
+260,Empty Pallets,53,22,800,12,32,No,0,0,Szeged,88,Hungary,Trameri,,Warsaw,,Poland,Stokes,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,30.21,24766
+67,Olives,54,18,1368,19,49,No,0,0,Szeged,88,Hungary,LKW,,Duisburg,,Germany,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,31.72,43989
+91,Potted Flowers,73,3,901,13,8,No,0,0,Szeged,88,Hungary,Posped,,Nurmeberg,,Germany,Stokes,,Very Urgent,Refrigerated,No,No,Yes,No,Nil,No,44.37,40578
+438,Maple Syrup,80,17,542,8,29,No,0,0,Szeged,88,Hungary,LKW,,klagenfurt,,Austria,Tradeaux,,Normal,Container Chassis,No,No,No,No,Nil,No,28.18,15874
+462,Industrial Condenser,119,60,229,4,13,No,0,0,Szeged,88,Hungary,Government,,Debrecen,,Hungary,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,63,15058
+537,Plastic Flim Rolls,124,18,426,6,17,No,0,0,Szeged,88,Hungary,Trameri,,Vienna,,Italy,Stokes,,Urgent,Curtainsiders,No,No,No,No,Nil,No,27.41,12276
+312,Straw Bales,159,15,771,11,2,No,0,0,Szeged,88,Hungary,Posped,,Dresden,,Germany,Transinet,,Normal,Flatbeds,No,No,No,No,Nil,No,26.33,20902
+681,Scrap Metals,177,21,728,40,34,No,0,0,Szeged,88,Hungary,Trameri,,Lodz,,Poland,Posped,,Normal,Bulk Carriers,No,No,No,No,Nil,No,8.88,7065
+505,Gaint Silo,194,40,229,4,13,No,0,0,Szeged,88,Hungary,Government,,Debrecen,,Hungary,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,55.73,13390
+624,Coconut Oil,213,21,326,4,55,No,0,0,Szeged,88,Hungary,LKW,,B.Bystrica,,Slovakia,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,26.11,9112
+142,Chicken Meat,22,17,1119,16,16,Yes,60,300,Plymouth,75,England,Euro Acers,,Frankfurt,,Germany,Tradeaux,,Normal,Refrigerated,No,No,No,No,Nil,No,29.54,33954
+224,Electronics,29,8,630,8,11,No,0,0,Plymouth,75,England,Trameri,,Carlisle,,England,Posped,,Urgent,Curtainsiders,No,No,Yes,No,Nil,No,41.9,26999
+60,Truck Batteries,48,14,1429,20,50,Yes,60,300,Plymouth,75,England,Stokes,,Rostock,,Germany,Tradeaux,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,31.31,45635
+206,Ventilation Shaft,55,4,790,11,22,Yes,60,300,Plymouth,75,England,Stokes,,Luxembourg,,Luxembourg,ITCC,,Urgent,Flatbeds,No,No,No,No,Nil,No,35.15,28666
+116,Potatoes,86,22,1051,15,21,Yes,60,300,Plymouth,75,England,Euro Acers,,Osnabruck,,Germany,Euro Goodies,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.47,36074
+179,Industrial Condenser,119,60,456,6,20,No,0,0,Plymouth,75,England,Government,,Dover,,England,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,66.51,30948
+406,Caviar,128,14,463,8,10,Yes,49,384,Plymouth,75,England,Euro Goodies,,Calasis,,France,LKW,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,34.89,17137
+256,Excavator Bucket,136,25,456,6,20,No,0,0,Plymouth,75,England,Government,,Dover,,England,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,53.72,25112
+348,Metal Cans,150,4,646,9,54,Yes,60,300,Plymouth,75,England,Stokes,,Brussels,,Belgium,Transinet,,Urgent,Curtainsiders,No,No,No,No,Nil,No,29.05,19665
+475,Milk,160,20,476,6,13,No,0,0,Plymouth,75,England,Euro Goodies,,Cambridge,,England,Kaarfor,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.84,14804
+450,Chicken Meat,22,17,495,7,20,No,0,0,Wroclaw,96,Poland,Euro Acers,,Erfurt,,Germany,Euro Goodies,,Urgent,Refrigerated,No,No,No,No,Nil,No,30.04,15471
+246,Dry milk,36,18,847,12,25,No,0,0,Wroclaw,96,Poland,Euro Acers,,Dusseldorf,,Germany,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.51,25594
+146,Roof Tiles,64,20,928,14,3,No,0,0,Wroclaw,96,Poland,Trameri,,Amsterdam,,Netherlands,LKW,,Very Urgent,Low bed,No,No,No,No,Nil,No,35.61,33644
+486,Large Tubes,100,22,426,6,38,No,0,0,Wroclaw,96,Poland,Stein Brunch,,Linz,,Austria,Posped,,Urgent,Flatbeds,No,No,No,No,Nil,No,32.03,14149
+671,Pesto,193,18,218,3,47,No,0,0,Wroclaw,96,Poland,Euro Goodies,,Lodz,,Poland,Euro Goodies,,Urgent,Curtainsiders,No,No,No,No,Nil,No,31.33,7430
+732,Gravel,202,21,209,3,59,No,0,0,Wroclaw,96,Poland,Stein Brunch,,Poznan,,Poland,Stokes,,Normal,Bulk Carriers,No,No,No,No,Nil,No,13.11,3340
+27,Crawl Tractor,23,13,1303,19,1,Yes,60,300,Numberg,65,Germany,Euro Acers,,Grimsby,,England,Tradeaux,,Normal,Low bed,Yes,No,No,No,Nil,No,40.17,53239
+112,Crawl Tractor,23,13,920,14,9,No,0,0,Linz,51,Austria,RTLOG,,Olsztyn,,Poland,Treeet,,Normal,Low bed,Yes,No,No,No,Nil,No,39.19,36951
+364,Train Undercarriage,25,20,422,6,12,No,0,0,Linz,51,Austria,ITCC,,B.Bystrica,,Slovakia,Posped,,Normal,Flatbeds,Yes,No,No,No,Nil,No,43.73,19052
+636,Apples,51,9,595,8,49,No,0,0,Linz,51,Austria,Posped,,Krakow,,Poland,Tradeaux,,Normal,Container Chassis,No,No,No,No,Nil,No,13.37,8553
+592,Nuts,62,18,359,5,18,No,0,0,Linz,51,Austria,Posped,,Innsbruck,,Austria,RTLOG,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.57,10496
+335,Carrots,77,16,662,9,38,No,0,0,Linz,51,Austria,RTLOG,,Debrecen,,Hungary,Euro Goodies,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.31,20004
+591,Copper Roof Gutters,87,8,331,5,8,No,0,0,Linz,51,Austria,Dom Keps,,Prague,,Czech Republic,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,30.07,10552
+171,Mobile Crane - UTM SD-833,113,36,600,5,47,No,0,0,Linz,51,Austria,ITCC,,Verona,,Italy,Posped,,Very Urgent,Low bed,Yes,Yes,No,No,Nil,No,51.58,31547
+346,Plastic Pipes,123,12,873,12,52,No,0,0,Linz,51,Austria,Dom Keps,,Rostock,,Germany,Tradeaux,,Very Urgent,Flatbeds,No,No,No,No,Nil,No,21.9,19721
+225,Scaffolding,130,21,924,14,27,No,0,0,Linz,51,Austria,Dom Keps,,Gdansk,,Poland,Sand Builders,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.56,26985
+282,Cement,146,21,1364,19,56,Yes,60,300,Linz,51,Austria,ITCC,,Southampton,,England,Transinet,,Normal,Silo,No,No,No,No,Nil,No,16.49,23391
+383,Massive Tech Part,156,44,271,4,12,No,0,0,Linz,51,Austria,Government,,Brno,,Czech Republic,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,64.75,18148
+415,High-Tech Device,174,45,271,4,12,No,0,0,Linz,51,Austria,Government,,Brno,,Czech Republic,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,59.77,16799
+699,Scrap Metals,177,21,622,10,20,No,0,0,Linz,51,Austria,ITCC,,Poznan,,Poland,Stokes,,Normal,Bulk Carriers,No,No,No,No,Nil,No,8.88,6123
+593,Concrete Centering,208,18,452,6,39,No,0,0,Linz,51,Austria,ITCC,,Stuttgart,,Germany,LKW,,Very Urgent,Flatbeds,No,No,No,No,Nil,No,21.89,10496
+117,Crawl Tractor,23,13,793,11,42,Yes,60,300,Dortmund,22,Germany,Treeet,,Felixstowe,,England,Tradeaux,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,44.09,35866
+441,Used Plastics,35,15,461,6,59,No,0,0,Dortmund,22,Germany,Kaarfor,,kiel,,Germany,Stokes,,Normal,Articulated Trailer,No,No,No,No,Nil,No,32.71,15680
+397,Tractors,41,11,362,5,26,No,0,0,Dortmund,22,Germany,Treeet,,Brussels,,Belgium,Transinet,,Urgent,Low bed,No,No,No,No,Nil,No,46.73,17518
+245,Empty Pallets,53,22,957,15,16,No,0,0,Dortmund,22,Germany,Treeet,,Gdansk,,Poland,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,26.33,25796
+735,Sawdust Pannels,91,15,133,2,14,No,0,0,Dortmund,22,Germany,Treeet,,Osnabruck,,Germany,Euro Acers,,Normal,Articulated Trailer,No,No,No,No,Nil,No,19.86,3241
+253,Haul Truck Chassis,132,55,369,6,51,No,0,0,Dortmund,22,Germany,Government,,Hanover,,Germany,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,66.5,25193
+323,Excavator Bucket,136,25,369,0,0,No,0,0,Dortmund,22,Germany,Government,,Hanover,,Germany,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,53.72,20464
+709,Milk,160,23,128,2,7,No,0,0,Dortmund,22,Germany,transinet,,Osnabruck,,Germany,Transinet,,Urgent,Tank,No,No,No,No,Nil,No,36.53,5276
+702,Scrap Metals,177,21,570,8,33,No,0,0,Dortmund,22,Germany,transinet,,Zurich,,Switzerland,Stokes,,Normal,Bulk Carriers,No,No,No,No,Nil,No,8.88,5662
+689,Coal,204,21,403,6,12,No,0,0,Dortmund,22,Germany,Stein Brunch,,Rotterdam,,Netherlands,Posped,,Very Urgent,Bulk Carriers,No,No,No,No,Nil,No,15.34,6784
+713,Sand,210,23,228,3,44,No,0,0,Dortmund,22,Germany,Stein Brunch,,Liege,,Austria,ITCC,,Very Urgent,Bulk Carriers,No,No,No,No,Nil,No,19.38,5018
+372,Crawl Tractor,23,13,418,6,38,No,0,0,Poznan,76,Poland,Treeet,,Krakow,,Poland,Tradeaux,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,43.11,19620
+554,Used Plastics,35,7,577,8,59,No,0,0,Poznan,76,Poland,Kaarfor,,kiel,,Germany,Stokes,,Normal,Container Chassis,No,No,No,No,Nil,No,19.05,11593
+56,Excavator Volvo EW240E MH,45,26,966,12,23,No,0,0,Poznan,76,Poland,Treeet,,Luxembourg,,Luxembourg,Sand Builders,,Very Urgent,Low bed,Yes,Yes,No,No,Nil,No,45.6,46021
+515,Flour,49,20,358,6,8,No,0,0,Poznan,76,Poland,Stokes,,Lublin,,Poland,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,33.93,13088
+62,Beef,50,21,1371,20,0,No,0,0,Poznan,76,Poland,Stokes,,Lyon,,France,Tradeaux,,Urgent,Refrigerated,No,No,No,No,Nil,No,32.76,45510
+536,Empty Pallets,53,22,397,6,2,No,0,0,Poznan,76,Poland,Kaarfor,,Bialystok,,Poland,Transinet,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,29.43,12283
+548,Wood Shavings,201,4,1124,16,33,No,0,0,Poznan,76,Poland,Treeet,,Lille,,France,Tradeaux,,Urgent,Silo,No,No,No,No,Nil,No,9.87,11698
+29,Train Undercarriage,25,20,1104,15,55,No,0,0,Budapest,13,Hungary,Tradeaux,,Hanover,,Germany,Tradeaux,,Normal,Low bed,Yes,No,No,No,Nil,No,47.19,52695
+405,Reservior Tank,34,11,481,6,59,No,0,0,Budapest,13,Hungary,Trameri,,Linz,,Austria,ITCC,,Urgent,Flatbeds,No,No,No,No,Nil,No,34.69,17287
+633,Used Plastics,35,7,439,6,26,No,0,0,Budapest,13,Hungary,Kaarfor,,Ostrava,,Czech Republic,Transinet,,Normal,Container Chassis,No,No,No,No,Nil,No,18.47,8708
+687,Used Plastics,35,9,317,4,39,No,0,0,Budapest,13,Hungary,Kaarfor,,Vienna,,Austria,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,19.73,6853
+349,Empty Pallets,53,22,745,11,15,No,0,0,Budapest,13,Hungary,Kaarfor,,Poznan,,Poland,Stokes,,Normal,Container Chassis,No,No,No,No,Nil,No,25.55,19635
+87,Industrial Cable Reel,69,34,1480,21,18,No,0,0,Budapest,13,Hungary,Tradeaux,,Brussels,,Belgium,Transinet,,Normal,Low bed,No,Yes,No,No,Nil,No,27.09,40694
+134,Chimney Systems,96,18,975,14,7,No,0,0,Budapest,13,Hungary,Trameri,,Frankfurt,,Germany,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,34.69,34424
+407,Heavy Metals,102,20,478,6,51,No,0,0,Budapest,13,Hungary,NBFC,,Linz,,Austria,RTLOG,,Normal,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,34.45,17066
+226,Pesticides,105,10,1484,21,26,No,0,0,Budapest,13,Hungary,NBFC,,Brussels,,Belgium,Euro Acers,,Normal,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,17.71,26888
+307,Dynamite,157,17,478,6,51,No,0,0,Budapest,13,Hungary,NBFC,,Linz,,Austria,RTLOG,,Normal,Curtainsiders,No,No,Yes,Yes,Class 1- Explosives,No,43.28,21286
+398,Protective Clothing,175,20,578,8,43,No,0,0,Budapest,13,Hungary,Tradeaux,,Lodz,,Poland,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.26,17513
+572,Truck Rims,186,9,435,6,38,No,0,0,Budapest,13,Hungary,Tradeaux,,Katowice,,Poland,Posped,,Urgent,Container Chassis,No,No,No,No,Nil,No,24.29,11167
+255,Fuel Tanker,27,9,733,11,13,No,0,0,Strasbourg,84,France,Trameri,,klagenfurt,,Austria,Trameri,,Normal,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,33.52,25167
+517,Used Plastics,35,9,547,8,36,No,0,0,Strasbourg,84,France,Kaarfor,,Osnabruck,,Germany,Transinet,,Urgent,Curtainsiders,No,No,No,No,Nil,No,22.66,12997
+478,Rock Bucket Volvo SPN PT SEG,40,3,456,6,52,No,0,0,Strasbourg,84,France,Stein Brunch,,Innsbruck,,Austria,Stein Brunch,,Normal,Low bed,Yes,No,No,No,Nil,No,30.78,14635
+151,Empty Pallets,53,22,1200,19,34,No,0,0,Strasbourg,84,France,Kaarfor,,Lublin,,Poland,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.1,33124
+311,Backhoe Loder,68,8,546,8,40,No,0,0,Strasbourg,84,France,Posped,,Hanover,,Germany,Sand Builders,,Normal,Low bed,Yes,No,No,No,Nil,No,37.4,21019
+484,Sodium Hydroxide,78,7,740,11,19,No,0,0,Strasbourg,84,France,WGCC,,Garz,,Austria,RTLOG,,Normal,Tank,No,No,Yes,Yes,Class 4- Flammable Solids,No,18.41,14224
+287,Copper Roof Gutters,87,8,767,10,59,Yes,60,300,Strasbourg,84,France,Posped,,Southampton,,England,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.68,22894
+670,Chimney Systems,96,18,209,2,56,No,0,0,Strasbourg,84,France,Trameri,,Zurich,,Switzerland,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,33.21,7541
+622,Heavy Metals,102,10,495,7,48,No,0,0,Strasbourg,84,France,WGCC,,Duisburg,,Germany,NBFC,,Normal,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,17.22,9126
+465,Pesticides,105,21,444,7,1,No,0,0,Strasbourg,84,France,WGCC,,Dortmund,,Germany,Treeet,,Normal,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,32.38,14976
+445,Garlic,171,12,537,7,31,No,0,0,Strasbourg,84,France,Posped,,Rotterdam,,Netherlands,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.81,15532
+454,Fertilizer,185,20,434,5,58,No,0,0,Strasbourg,84,France,WGCC,,Brussels,,Belgium,Transinet,,Urgent,Curtainsiders,No,No,No,No,Nil,No,34,15354
+651,Coal,204,21,517,7,40,No,0,0,Strasbourg,84,France,Stein Brunch,,Munich,,Germany,WGCC,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,14.37,8030
+599,Fuel Tanker,27,10,241,4,24,No,0,0,Lublin,55,Poland,Posped,,Bialystok,,Poland,Euro Acers,,Very Urgent,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,39.77,10185
+209,Used Plastics,35,9,1244,18,59,No,0,0,Lublin,55,Poland,Kaarfor,,Liege,,Belgium,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,22.28,28322
+84,Empty Pallets,53,21,1510,22,40,No,0,0,Lublin,55,Poland,Kaarfor,,Milan,,Italy,Cargotras,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.04,41425
+504,Driller - D-50,57,8,309,5,12,No,0,0,Lublin,55,Poland,LKW,,Kosice,,Poland,LKW,,Normal,Low bed,Yes,No,No,No,Nil,No,41.46,13412
+657,Used Packaging,63,20,371,5,45,No,0,0,Lublin,55,Poland,Kaarfor,,Olsztyn,,Poland,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,22.94,7871
+89,Transmissions,71,14,818,12,51,No,0,0,Lublin,55,Poland,LKW,,Linz,,Austria,RTLOG,,Very Urgent,Curtainsiders,No,No,Yes,No,Nil,No,49,40684
+239,Medical Equipments,83,5,491,7,34,No,0,0,Lublin,55,Poland,LKW,,B.Bystrica,,Slovakia,Stokes,,Very Urgent,Refrigerated,Yes,No,Yes,No,Nil,No,51.71,25992
+188,Salt & Spices,84,16,955,14,44,No,0,0,Lublin,55,Poland,Euro Goodies,,Bremen,,Germany,Euro Goodies,,Urgent,Curtainsiders,No,No,No,No,Nil,No,31.24,30431
+159,Ice Cream,108,14,936,14,46,No,0,0,Lublin,55,Poland,Euro Goodies,,kiel,,Germany,Posped,,Urgent,Refrigerated,No,No,No,No,Nil,No,34.02,32446
+271,Brake Fluids,143,5,855,13,17,No,0,0,Lublin,55,Poland,LKW,,Garz,,Austria,RTLOG,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,27.47,24085
+458,Sugar,187,21,440,7,45,No,0,0,Lublin,55,Poland,LKW,,Gdansk,,Poland,LKW,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,33.12,15174
+34,Silica,30,19,1473,20,56,Yes,60,300,Cologne,19,Germany,Posped,,Aberdeen,,England,Stokes,,Urgent,Curtainsiders,No,No,No,No,Nil,No,34.42,51596
+109,Pears,81,15,997,14,45,No,0,0,Cologne,19,Germany,Posped,,klagenfurt,,Austria,Sell Plan,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,36.5,36988
+401,High-Tech Device,174,45,280,4,11,No,0,0,Cologne,19,Germany,Government,,Amsterdam,,Netherlands,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,59.77,17342
+400,Boiler Part,176,45,280,4,11,No,0,0,Cologne,19,Germany,Government,,Amsterdam,,Netherlands,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,59.77,17342
+739,Vinegar,216,9,43,1,1,No,0,0,Cologne,19,Germany,Posped,,Dusseldorf,,Germany,Euro Goodies,,Urgent,Container Chassis,No,No,No,No,Nil,No,22.88,1584
+36,Iron Pipes,31,18,1572,22,51,Yes,60,300,Szczecin,87,Poland,ITCC,,Swansea,,England,Posped,,Urgent,Flatbeds,No,No,No,No,Nil,No,31.99,51193
+49,Trucks- Scania,42,14,844,12,21,No,0,0,Szczecin,87,Poland,transinet,,Innsbruck,,Austria,RTLOG,,Normal,Low bed,Yes,No,Yes,No,Nil,No,55.06,47074
+395,Excavator Volvo EW240E MH,45,26,451,7,15,No,0,0,Szczecin,87,Poland,ITCC,,Warsaw,,Poland,Stokes,,Normal,Low bed,Yes,Yes,No,No,Nil,No,37.65,17582
+388,Rice,109,22,585,9,51,No,0,0,Szczecin,87,Poland,Euro Goodies,,Lublin,,Poland,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.31,17746
+237,Juice Concentrate,133,23,1063,15,30,No,0,0,Szczecin,87,Poland,Euro Goodies,,Bern,,Switzerland,Euro Goodies,,Normal,Tank,No,No,No,No,Nil,No,23.94,26051
+286,Metal Cans,150,4,721,11,1,No,0,0,Szczecin,87,Poland,transinet,,Amsterdam,,Netherlands,LKW,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,30.96,22922
+37,Oil Fileters,32,12,1282,18,22,No,0,0,Lyon,57,France,Tradeaux,,Kiel,,Germany,Posped,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,39.35,51053
+403,Used Plastics,35,7,798,11,39,No,0,0,Lyon,57,France,Kaarfor,,Venice,,Italy,LKW,,Normal,Container Chassis,No,No,No,No,Nil,No,20.96,17324
+338,Excavator Volvo EW240E MH,45,26,441,5,54,No,0,0,Lyon,57,France,Batisse,,Zurich,,Switzerland,Posped,,Very Urgent,Low bed,Yes,Yes,No,No,Nil,No,43.61,19832
+183,Truck Batteries,48,18,843,12,1,No,0,0,Lyon,57,France,Tradeaux,,Dortmund,,Germany,Transinet,,Urgent,Curtainsiders,No,No,No,No,Nil,No,35.77,30755
+95,Driller - D-50,57,8,819,10,39,No,0,0,Lyon,57,France,Stein Brunch,,Calasis,,France,LKW,,Urgent,Low bed,Yes,No,No,No,Nil,No,47.76,39717
+76,Nuts,62,18,1178,16,6,Yes,60,300,Lyon,57,France,Tradeaux,,Grimsby,,England,Euro Goodies,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,35.35,42539
+261,Used Packaging,63,20,863,12,24,No,0,0,Lyon,57,France,Trameri,,Duisburg,,Germany,LKW,,Urgent,Curtainsiders,No,No,No,No,Nil,No,27.84,24627
+601,Used Packaging,63,20,404,5,15,No,0,0,Lyon,57,France,Kaarfor,,Metz,,France,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,23.68,10167
+421,Chimney Systems,96,18,533,6,50,No,0,0,Lyon,57,France,Trameri,,Paris,,France,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.51,16329
+342,Wheel Loader,127,15,507,6,36,No,0,0,Lyon,57,France,Stein Brunch,,Strasbourg,,France,Posped,,Normal,Low bed,Yes,No,No,No,Nil,No,37.78,19754
+595,Scrap Metals,177,26,869,12,45,No,0,0,Lyon,57,France,Trameri,,Salzburg,,Austria,RTLOG,,Normal,Bulk Carriers,No,Yes,No,No,Nil,No,11.44,10473
+413,Rooflights,178,5,532,6,53,No,0,0,Lyon,57,France,Tradeaux,,Paris,,France,Batisse,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.6,16879
+506,Stones,182,27,856,12,36,No,0,0,Lyon,57,France,Stein Brunch,,Salzburg,,Austria,RTLOG,,Normal,Bulk Carriers,No,Yes,No,No,Nil,No,14.87,13330
+641,Coal,204,26,506,6,34,No,0,0,Lyon,57,France,Stein Brunch,,Strasbourg,,France,Trameri,,Normal,Bulk Carriers,No,Yes,No,No,Nil,No,15.5,8443
+603,Oil Fileters,32,12,281,4,15,No,0,0,Amsterdam,1,Netherlands,Stokes,,Dortmund,,Germany,Transinet,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.19,9927
+182,Used Plastics,35,9,1228,17,52,No,0,0,Amsterdam,1,Netherlands,Kaarfor,,klagenfurt,,Austria,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,24.58,30786
+496,Used Plastics,35,7,684,10,4,No,0,0,Amsterdam,1,Netherlands,Kaarfor,,Dijon,,France,Stokes,,Normal,Container Chassis,No,No,No,No,Nil,No,19.05,13631
+59,Tracks,47,11,1079,16,15,No,0,0,Amsterdam,1,Netherlands,LKW,,Katowice,,Poland,Posped,,Very Urgent,Low bed,No,No,No,No,Nil,No,41.77,45670
+640,Empty Pallets,53,22,246,14,33,Yes,370,995,Amsterdam,1,Netherlands,Kaarfor,,Grimsby,,England,Tradeaux,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,27.88,8453
+80,Roof Tiles,64,20,1137,16,56,No,0,0,Amsterdam,1,Netherlands,Trameri,,Ostrava,,Czech Republic,Transinet,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,36.5,42102
+427,Pears,81,15,447,6,15,No,0,0,Amsterdam,1,England,Stokes,,Calasis,,England,Stokes,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,34.66,16094
+274,Chimney Systems,96,18,693,10,19,No,0,0,Amsterdam,1,Netherlands,Trameri,,Nurmeberg,,Germany,Sand Builders,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.76,23998
+569,Smoked Sparts,131,17,308,4,53,No,0,0,Amsterdam,1,Netherlands,Stokes,,Dusseldorf,,Germany,Stokes,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,34.45,11212
+263,Carbonated Water,140,21,832,11,26,No,0,0,Amsterdam,1,Netherlands,LKW,,Bern,,Switzerland,Euro Goodies,,Urgent,Curtainsiders,No,No,No,No,Nil,No,28.81,24573
+575,Chemical Sorbent,141,8,486,6,53,Yes,0,0,Amsterdam,1,Netherlands,LKW,,Metz,,France,Posped,,Normal,Container Chassis,No,No,No,No,Nil,No,21.61,11101
+488,Big-Bags of Seeds,142,19,487,7,2,No,0,0,Amsterdam,1,Netherlands,LKW,,Paris,,France,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.71,14095
+639,Wheels with Volvo Rims,215,10,316,4,51,No,0,0,Amsterdam,1,Netherlands,LKW,,Bremen,,Germany,Posped,,Very Urgent,Flatbeds,No,No,No,No,Nil,No,25.03,8510
+273,Mercury Chloride ,33,15,559,8,54,No,0,0,Gdansk,33,Poland,WGCC,,Ostrava,,Czech Republic,NBFC,,Urgent,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,41.86,24002
+71,Plums,58,16,1156,17,55,No,0,0,Gdansk,33,Poland,Euro Acers,,Liege,,Belgium,Stokes,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,36.56,42865
+86,Backhoe Loder,68,8,1021,15,37,No,0,0,Gdansk,33,Poland,BCP,,Garz,,Austria,LKW,,Normal,Low bed,Yes,No,No,No,Nil,No,39.37,40800
+104,Natural Rubber,74,21,1084,16,42,No,0,0,Gdansk,33,Poland,LKW,,Salzburg,,Austria,RTLOG,,Normal,Curtainsiders,No,No,No,No,Nil,No,34.43,37925
+150,Heavy Metals,102,20,891,13,53,No,0,0,Gdansk,33,Poland,WGCC,,Budapest,,Hungary,Trameri,,Normal,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,36.61,33220
+176,Tomatoes,117,18,892,13,46,No,0,0,Gdansk,33,Poland,LKW,,Vienna,,Austria,Stokes,,Urgent,Refrigerated,No,No,No,No,Nil,No,34.24,31146
+615,Arsenic,138,9,484,8,13,No,0,0,Gdansk,33,Poland,WGCC,,Berlin ,,Germany,NBFC,,Urgent,Tank,No,No,No,Yes,Class 6- Toxic & Infectious substances,No,18.4,9505
+284,Beverages,148,21,616,10,15,No,0,0,Gdansk,33,Poland,LKW,,Madeburg,,Germany,Sell Plan,,Very Urgent,Container Chassis,No,No,Yes,No,Nil,No,36.61,23149
+333,White Phosphorus,163,10,484,8,13,No,0,0,Gdansk,33,Poland,WGCC,,Berlin ,,Germany,NBFC,,Very Urgent,Tank,No,No,Yes,Yes,Class 4- Flammable Solids,No,40.14,20027
+411,Reservior Tank,34,11,441,6,16,No,0,0,Swansea,86,England,Trameri,,Carlisle,,England,Euro Acers,,Very Urgent,Flatbeds,No,No,No,No,Nil,No,37.04,16934
+470,Used Plastics,35,9,664,9,39,Yes,60,300,Swansea,86,England,Kaarfor,,Paris,,France,Tradeaux,,Normal,Container Chassis,No,No,No,No,Nil,No,21,14847
+614,Used Plastics,35,7,483,6,18,No,0,0,Swansea,86,England,Posped,,Felixstowe,,England,LKW,,Normal,Container Chassis,No,No,No,No,Nil,No,18.47,9522
+541,Empty Pallets,53,21,458,7,46,Yes,49,384,Swansea,86,England,Kaarfor,,Calasis,,France,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,24.02,11985
+573,Used Packaging,63,20,446,5,53,No,0,0,Swansea,86,England,Kaarfor,,Dover,,England,LKW,,Normal,Curtainsiders,No,No,No,No,Nil,No,23.68,11163
+119,Copper Roof Gutters,87,8,1149,16,44,Yes,60,300,Swansea,86,England,Trameri,,Frankfurt,,Germany,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.42,35853
+530,Plastic Flim Rolls,124,12,758,7,46,Yes,49,384,Swansea,86,England,Trameri,,Calasis,,France,Stokes,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,25.17,12510
+197,Honey,125,20,906,13,4,Yes,60,300,Swansea,86,England,Euro Acers,,Amsterdam,,Netherlands,Kaarfor,,Normal,Curtainsiders,No,No,No,No,Nil,No,31.51,29449
+410,Rye,169,21,820,11,49,Yes,60,300,Swansea,86,England,Euro Acers,,Luxembourg,,Luxembourg,LKW,,Urgent,Silo,No,No,No,No,Nil,No,19.71,17061
+632,Gravel,202,21,524,7,19,No,0,0,Swansea,86,England,Posped,,Newcastle,,England,Sand Builders,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,15.57,8760
+532,Reservior Tank,34,11,376,5,43,No,0,0,Nuremberg,66,Germany,Sand Builders,,Linz,,Austria,Posped,,Normal,Flatbeds,No,No,No,No,Nil,No,31.17,12323
+322,Empty Pallets,53,22,779,11,26,No,0,0,Nuremberg,66,Germany,Trameri,,Rotterdam,,Netherlands,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.55,20504
+327,Empty Pallets,53,22,774,11,22,No,0,0,Nuremberg,66,Germany,Stokes,,Milan,,Italy,H,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.55,20375
+324,Roller- DYCNA CC-2200,65,8,469,6,53,No,0,0,Nuremberg,66,Germany,Sand Builders,,Brno,,Czech Republic,LKW,,Normal,Low bed,Yes,No,No,No,Nil,No,42.33,20454
+606,Rye,169,21,481,7,17,No,0,0,Nuremberg,66,Germany,Euro Acers,,Duisburg,,Germany,LKW,,Urgent,Silo,No,No,No,No,Nil,No,19.16,98118
+521,Pet Food,180,20,540,8,54,No,0,0,Nuremberg,66,Germany,Stokes,,Metz,,France,Euro Goodies,,Normal,Container Chassis,No,No,No,No,Nil,No,22.64,12826
+623,Canned Iced Coffe,212,18,296,4,39,No,0,0,Nuremberg,66,Germany,Stokes,,Leipzig ,,Germany,Euro Goodies,,Very Urgent,Articulated Trailer,No,No,No,No,Nil,No,28.76,9120
+678,Reservior Tank,34,11,223,3,37,No,0,0,Rotterdam,80,Netherlands,WGCC,,Lille,,France,Tradeaux,,Normal,Flatbeds,No,No,No,No,Nil,No,29.22,7116
+733,Rock Bucket Volvo SPN PT SEG,40,3,80,1,17,No,0,0,Rotterdam,80,Netherlands,transinet,,Amsterdam,,Netherlands,Stokes,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,34,3320
+432,Watermelons,60,20,426,17,9,Yes,370,995,Rotterdam,80,Netherlands,Posped,,Edinburgh,,England,Kaarfor,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,33.93,16050
+81,Roller- DYCNA CC-2200,65,8,818,11,30,Yes,60,300,Rotterdam,80,Netherlands,Sand Builders,,Sheffield,,England,Transinet,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,50.16,41927
+103,Sodium Hydroxide,78,20,902,13,8,No,0,0,Rotterdam,80,Netherlands,WGCC,,Munich,,Germany,WGCC,,Very Urgent,Tank,No,No,No,Yes,Class 8- Corrosive substances,No,41.86,38358
+214,Pork,98,18,819,11,33,Yes,60,300,Rotterdam,80,Netherlands,transinet,,Sheffield,,England,Transinet,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,32.87,27818
+152,Dozer Crawl- Z35K,103,39,738,10,35,Yes,60,300,Rotterdam,80,Netherlands,Posped,,Birmingham,,England,Posped,,Normal,Low bed,Yes,Yes,No,No,Nil,No,43.64,33104
+540,Chlorine,129,18,224,14,15,Yes,370,995,Rotterdam,80,Netherlands,WGCC,,Manchester,,England,WGCC,,Very Urgent,Tank,No,No,Yes,Yes,Class 2- Gases,No,46.58,12029
+627,Fresh Fish,168,18,258,3,47,No,0,0,Rotterdam,80,Netherlands,transinet,,Groningen,,Netherlands,Sell Plan,,Urgent,Refrigerated,No,No,No,No,Nil,No,34.42,8965
+571,Wall Panels,205,20,382,7,0,Yes,49,384,Rotterdam,80,Netherlands,transinet,,Dover,,England,LKW,,Normal,Low bed,No,No,No,No,Nil,No,26.75,11202
+722,Wheels with Volvo Rims,215,10,137,10,7,Yes,207,960,Rotterdam,80,Netherlands,Posped,,Felixstowe,,England,LKW,,Normal,Flatbeds,No,No,No,No,Nil,No,20.28,4339
+692,NItrogen,221,3,223,14,14,Yes,370,995,Rotterdam,80,Netherlands,WGCC,,Manchester,,England,FCP,,Very Urgent,Tank,No,No,Yes,Yes,Class 2- Gases,No,22.47,6605
+107,Used Plastics,35,9,1610,22,24,No,0,0,Turnin,91,Italy,Sell Plan,,Warsaw,,Poland,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,22.92,37506
+220,Empty Pallets,53,22,1011,14,42,No,0,0,Turnin,91,Italy,Sell Plan,,Vienna,,Austria,CNP,,Normal,Curtainsiders,No,No,No,No,Nil,No,26.33,27215
+360,Watermelons,60,20,548,8,30,No,0,0,Turnin,91,Italy,transinet,,Strasbourg,,France,Kaarfor,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,33.93,19196
+191,Used Packaging,63,20,1048,14,1,No,0,0,Turnin,91,Italy,Sell Plan,,Liege,,Belgium,Stokes,,Urgent,Curtainsiders,No,No,No,No,Nil,No,27.84,29778
+251,Used Packaging,63,20,981,15,19,No,0,0,Turnin,91,Italy,FCP,,Dortmund,,Germany,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.17,25290
+734,Salt & Spices,84,13,126,2,15,No,0,0,Turnin,91,Italy,transinet,,Milan,,Italy,D,,Normal,Container Chassis,No,No,No,No,Nil,No,21.34,3289
+254,Potatoes,86,22,756,11,18,No,0,0,Turnin,91,Italy,Euro Goodies,,Salzburg,,Austria,Sell Plan,,Urgent,Curtainsiders,No,No,No,No,Nil,No,32.57,25225
+726,Beans,120,12,115,2,2,No,0,0,Turnin,91,Italy,Euro Acers,,Milan,,Italy,CS,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,29.99,4049
+696,Wheat,165,17,335,4,43,No,0,0,Turnin,91,Italy,transinet,,Lyon,,France,Tradeaux,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,16.76,6215
+472,Train Azies ,188,20,334,4,43,No,0,0,Turnin,91,Italy,transinet,,Geneva,,Switzerland,Posped,,Normal,Flatbeds,Yes,No,No,No,Nil,No,42.57,14818
+195,Used Plastics,35,9,1180,17,26,No,0,0,Groningen,37,Netherlands,Sell Plan,,Garz,,Austria,LKW,,Urgent,Curtainsiders,No,No,No,No,Nil,No,24.58,29607
+141,Plums,58,16,936,13,54,No,0,0,Groningen,37,Netherlands,Euro Acers,,Lodz,,Poland,Posped,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,35.67,33985
+652,Used Packaging,63,20,290,4,27,No,0,0,Groningen,37,Netherlands,Sell Plan,,Hamburg,,Germany,LKW,,Urgent,Curtainsiders,No,No,No,No,Nil,No,25.61,8027
+283,Salmon Fillet,147,14,665,9,31,No,0,0,Groningen,37,Netherlands,Euro Goodies,,Paris,,France,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,34.09,23271
+673,Barley,220,18,354,5,28,No,0,0,Groningen,37,Netherlands,Euro Goodies,,Dusseldorf,,Germany,Stokes,,Urgent,Silo,No,No,No,No,Nil,No,19.17,7385
+584,Used Plastics,35,9,502,7,43,No,0,0,Rostock,79,Germany,Sell Plan,,Kassel,,Germany,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,20.37,11825
+598,Used Plastics,35,3,984,14,24,No,0,0,Rostock,79,Germany,Sell Plan,,Garz,,Austria,RTLOG,,Normal,Container Chassis,No,No,No,No,Nil,No,9.81,10257
+149,Empty Pallets,53,22,1054,15,27,No,0,0,Rostock,79,Germany,Sell Plan,,Paris,,France,Tradeaux,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,30.99,33259
+396,Industrial Cable Reel,69,34,664,10,17,No,0,0,Rostock,79,Germany,Tradeaux,,Frankfurt,,Germany,Tradeaux,,Normal,Low bed,No,Yes,No,No,Nil,No,25.54,17556
+229,Potatoes,86,22,863,12,56,No,0,0,Rostock,79,Germany,Tradeaux,,Vienna,,Austria,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.25,26708
+660,Used Plastics,35,7,334,5,2,No,0,0,Bern,5,Switzerland,Kaarfor,,Mannheim,,Germany,Transinet,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,21.36,7735
+46,Liver Paste,39,17,1332,20,59,No,0,0,Bern,5,Switzerland,Euro Acers,,Lublin,,Poland,Kaarfor,,Very Urgent,Refrigerated,No,No,No,No,Nil,No,35.77,48249
+695,Flour,49,20,216,3,1,No,0,0,Bern,5,Switzerland,Euro Goodies,,Strasbourg,,France,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,26.77,6382
+447,Empty Pallets,53,21,602,8,8,No,0,0,Bern,5,Switzerland,Kaarfor,,Liege,,Belgium,Stokes,,Normal,Container Chassis,No,No,No,No,Nil,No,24.78,15515
+334,Used Packaging,63,20,795,10,42,No,0,0,Bern,5,Switzerland,Kaarfor,,Calasis,,France,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,24.43,20018
+267,Pork,98,18,771,11,41,No,0,0,Bern,5,Switzerland,Euro Acers,,Osnabruck,,Germany,Sell Plan,,Urgent,Refrigerated,No,No,No,No,Nil,No,30.84,24377
+644,Young Seedings,121,3,237,3,20,No,0,0,Bern,5,Switzerland,Euro Acers,,Strasbourg,,France,Kaarfor,,Urgent,Refrigerated,No,No,No,No,Nil,No,32.13,8215
+693,Used Plastics,35,7,253,4,16,No,0,0,Lodz,53,Poland,Sell Plan,,Bialystok,,Poland,Transinet,,Very Urgent,Container Chassis,No,No,No,No,Nil,No,23.5,6545
+708,Used Plastics,35,9,246,4,24,No,0,0,Lodz,53,Poland,Sell Plan,,Lublin,,Poland,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,19.08,5295
+43,Toys,37,9,1308,19,52,No,0,0,Lodz,53,Poland,Posped,,Geneva,,Switzerland,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,37.05,49057
+281,Flour,49,20,776,11,26,No,0,0,Lodz,53,Poland,Euro Goodies,,Salzburg,,Austria,Sell Plan,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.46,23460
+354,Apples,51,20,580,8,42,No,0,0,Lodz,53,Poland,LKW,,Budapest,,Hungary,Tradeaux,,Urgent,Curtainsiders,No,No,No,No,Nil,No,32.63,19524
+75,Fresh Herbs,61,5,1403,20,19,No,0,0,Lodz,53,Poland,Euro Goodies,,Milan,,Italy,CS,,Normal,Refrigerated,No,No,No,No,Nil,No,29.9,42554
+147,Used Packaging,63,20,1263,18,31,No,0,0,Lodz,53,Poland,Sell Plan,,Lille,,France,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.91,33326
+94,Oranges,67,20,1263,18,31,No,0,0,Lodz,53,Poland,LKW,,Lille,,France,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.99,39841
+542,Plastic Pipes,123,12,627,9,23,No,0,0,Lodz,53,Poland,LKW,,Linz,,Austria,Dom Keps,,Normal,Flatbeds,No,No,No,No,Nil,No,18.06,11923
+230,Smoked Sparts,131,17,764,11,42,No,0,0,Lodz,53,Poland,Posped,,Osnabruck,,Germany,Sell Plan,,Urgent,Refrigerated,No,No,No,No,Nil,No,34.09,26644
+299,IBC Containers,154,11,623,9,55,No,0,0,Lodz,53,Poland,LKW,,Hanover,,Germany,Tradeaux,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,33.21,21589
+44,Onions,38,17,1305,18,48,Yes,60,300,Hamburg,38,Germany,Posped,,Sheffield,,England,Sell Plan,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,36.74,48850
+65,Roofing Felt,52,19,1291,19,17,No,0,0,Hamburg,38,Germany,LKW,,Turin,,Italy,Transinet,,Urgent,Curtainsiders,No,No,No,No,Nil,No,34.42,45031
+111,Medical Equipments,83,5,689,10,49,No,0,0,Hamburg,38,Germany,transinet,,Strasbourg,,France,Posped,,Very Urgent,Refrigerated,Yes,No,Yes,No,Nil,No,52.75,36947
+585,Cut Flowers,106,2,194,3,5,No,0,0,Hamburg,38,Germany,LKW,,Rostock,,Germany,Tradeaux,,Urgent,Articulated Trailer,No,No,No,No,Nil,No,52.08,10704
+264,Chemical Sorbent,141,8,1042,15,38,No,0,0,Hamburg,38,Germany,transinet,,B.Bystrica,,Slovakia,Posped,,Normal,Container Chassis,No,No,No,No,Nil,No,22.96,24527
+655,Brake Fluids,143,5,343,5,39,No,0,0,Hamburg,38,Germany,transinet,,Duisburg,,Germany,LKW,,Normal,Container Chassis,No,No,No,No,Nil,No,21.27,7896
+280,Metal Centering,145,28,616,17,5,Yes,60,300,Hamburg,38,Germany,LKW,,Felixstowe,,England,LKW,,Urgent,Low bed,No,Yes,No,No,Nil,No,35.57,23473
+522,Mason Jars,198,7,339,5,22,No,0,0,Hamburg,38,Germany,LKW,,Kassel,,Germany,Tradeaux,,Normal,Curtainsiders,No,No,Yes,No,Nil,No,35.99,12801
+414,Rock Bucket Volvo SPN PT SEG,40,3,455,6,53,No,0,0,Garz,32,Austria,Stein Brunch,,Prague,,Czech Republic,Tradeaux,,Very Urgent,Low bed,Yes,No,No,No,Nil,No,36.65,16822
+125,Excavator Volvo EW240E MH,45,26,881,13,6,No,0,0,Garz,32,Austria,Treeet,,Cologne,,Germany,Posped,,Normal,Low bed,Yes,Yes,No,No,Nil,No,39.64,35525
+494,Beef,50,21,484,7,38,No,0,0,Garz,32,Austria,Euro Acers,,Prague,,Czech Republic,Sell Plan,,Normal,Refrigerated,No,No,No,No,Nil,No,27.14,13735
+243,Empty Pallets,53,22,960,14,6,No,0,0,Garz,32,Austria,transinet,,Dusseldorf,,Germany,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,26.33,25873
+97,Atlantic Cod Fillet,75,16,1277,17,41,No,0,0,Garz,32,Austria,LKW,,Lille,,France,Tradeaux,,Normal,Refrigerated,No,No,No,No,Nil,No,46.67,39262
+463,Atlantic Cod Fillet,75,16,451,6,21,No,0,0,Garz,32,Austria,RTLOG,,B.Bystrica,,Slovakia,Stokes,,Urgent,Refrigerated,No,No,No,No,Nil,No,32.04,15052
+385,Sawdust Pannels,91,21,554,8,5,No,0,0,Garz,32,Austria,Treeet,,Szeged,,Hungary,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,31.36,17975
+510,Dozer Crawl- Z35K,103,39,306,4,31,No,0,0,Garz,32,Austria,Stein Brunch,,Brno,,Czech Republic,Sand Builders,,Normal,Low bed,Yes,Yes,No,No,Nil,No,41.39,13265
+420,Honey,125,20,481,7,10,No,0,0,Garz,32,Austria,LKW,,Nurmeberg,,Germany,Stokes,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33,16471
+650,Garlic,171,12,238,3,48,No,0,0,Garz,32,Austria,Euro Acers,,klagenfurt,,Austria,Sell Plan,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,31.29,8046
+637,Stones,182,23,651,9,34,No,0,0,Garz,32,Austria,Stein Brunch,,Krakow,,Poland,Sand Builders,,Normal,Bulk Carriers,No,No,No,No,Nil,No,12.21,8549
+485,Fertilizer,185,20,445,6,37,No,0,0,Garz,32,Austria,LKW,,Ostrava,,Czech Republic,NBFC,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.55,14195
+544,Backflow Preventers,200,24,268,4,3,No,0,0,Garz,32,Austria,RTLOG,,Salzburg,,Austria,RTLOG,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,41.86,11819
+682,Wood Shavings,201,4,850,12,46,No,0,0,Garz,32,Austria,LKW,,Turin,,Italy,Transinet,,Normal,Bulk Carriers,No,No,No,No,Nil,No,7.59,7054
+736,Wood Shavings,201,4,278,4,15,No,0,0,Garz,32,Austria,RTLOG,,Brno,,Czech Republic,LKW,,Very Urgent,Silo,No,No,No,No,Nil,No,9.46,3229
+563,Ore,203,22,733,10,46,No,0,0,Garz,32,Austria,Stein Brunch,,Lodz,,Poland,LKW,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,14.78,11433
+714,Coal,204,26,291,4,17,No,0,0,Garz,32,Austria,Stein Brunch,,Brno,,Czech Republic,Trameri,,Normal,Bulk Carriers,No,Yes,No,No,Nil,No,15.01,4968
+712,Barley,220,18,246,3,55,No,0,0,Garz,32,Austria,Euro Acers,,Linz,,Austria,Posped,,Urgent,Silo,No,No,No,No,Nil,No,18.08,5048
+313,Excavator Volvo EW240E MH,45,26,539,8,4,No,0,0,Erfurt,28,Germany,Sand Builders,,Brno,,Czech Republic,LKW,,Normal,Low bed,Yes,Yes,No,No,Nil,No,37.65,20896
+539,Apples,51,20,363,5,59,No,0,0,Erfurt,28,Germany,Euro Acers,,Osnabruck,,Germany,Sell Plan,,Urgent,Curtainsiders,No,No,No,No,Nil,No,31.73,12119
+101,Carrots,77,16,1212,17,9,Yes,60,300,Erfurt,28,Germany,Euro Acers,,Cardiff,,England,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,31.09,38586
+344,Canned Beans,89,16,696,10,14,No,0,0,Erfurt,28,Germany,Euro Goodies,,Ostrava,,Czech Republic,Kaarfor,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.55,19776
+144,Soy Milk,101,21,1045,15,36,No,0,0,Erfurt,28,Germany,Euro Goodies,,Turin,,Italy,Transinet,,Urgent,Curtainsiders,No,No,No,No,Nil,No,31.85,33884
+459,Truck Batteries,48,15,551,8,40,No,0,0,Bremen,9,Germany,Posped,,Dresden,,Germany,Transinet,,Normal,Articulated Trailer,No,No,No,No,Nil,No,26.38,15134
+686,Beef,50,21,246,3,47,No,0,0,Bremen,9,Germany,Euro Acers,,kiel,,Germany,Euro Goodies,,Normal,Refrigerated,No,No,No,No,Nil,No,25.44,6858
+257,Empty Barrels,137,9,898,13,36,No,0,0,Bremen,9,Germany,FCP,,Salzburg,,Austria,RTLOG,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.23,25054
+456,Massive Tech Part,156,44,232,3,40,No,0,0,Bremen,9,Germany,Government,,Travemunde,,Germany,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,63,15251
+332,Goat Cheese,162,15,644,10,5,No,0,0,Bremen,9,Germany,Posped,,Strasbourg,,France,Posped,,Normal,Refrigerated,No,No,No,No,Nil,No,30.29,20105
+707,Rye,169,21,245,3,48,No,0,0,Bremen,9,Germany,Euro Goodies,,kiel,,Germany,Posped,,Very Urgent,Silo,No,No,No,No,Nil,No,19.38,5348
+479,Packaged Food,190,17,362,5,51,No,0,0,Bremen,9,Germany,Euro Goodies,,Berlin ,,Germany,Euro Goodies,,Very Urgent,Curtainsiders,No,No,Yes,No,Nil,No,38.39,14497
+499,Gaint Silo,194,40,232,3,40,No,0,0,Bremen,9,Germany,Government,,Travemunde,,Germany,Government,,Normal,Low bed,Yes,Yes,No,No,Nil,Yes,55.73,13561
+717,Barley,220,18,230,3,34,No,0,0,Bremen,9,Germany,Posped,,Dortmund,,Germany,Transinet,,Urgent,Silo,No,No,No,No,Nil,No,18.09,4760
+330,Empty Pallets,53,22,771,11,23,No,0,0,Mannheim,60,Germany,Trameri,,Vienna,,Austria,CNP,,Normal,Curtainsiders,No,No,No,No,Nil,No,25.55,20300
+477,Copper Roof Gutters,87,8,505,7,32,No,0,0,Mannheim,60,Germany,Trameri,,Salzburg,,Austria,RTLOG,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.8,14641
+451,Pork,98,15,553,8,26,No,0,0,Mannheim,60,Germany,transinet,,Hamburg,,Germany,LKW,,Very Urgent,Articulated Trailer,No,No,No,No,Nil,No,28.89,15469
+586,Plastic Pipes,123,12,558,8,15,No,0,0,Mannheim,60,Germany,Trameri,,Amsterdam,,Netherlands,Stokes,,Urgent,Flatbeds,No,No,No,No,Nil,No,18.06,10676
+318,Caviar,128,14,560,8,21,No,0,0,Mannheim,60,Germany,Euro Goodies,,Dresden,,Germany,Transinet,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,35.81,20653
+68,Ventilation Shaft,55,4,1273,18,35,Yes,60,300,Grimsby,36,England,WGCC,,Hamburg,,Germany,LKW,,Normal,Flatbeds,No,No,No,No,Nil,No,33.61,43681
+675,Fresh Herbs,61,5,234,3,21,No,0,0,Grimsby,36,England,Euro Goodies,,Birmingham,,England,Posped,,Urgent,Curtainsiders,No,No,No,No,Nil,No,28.7,7315
+88,Diesel,70,23,801,11,34,Yes,60,300,Grimsby,36,England,WGCC,,Rotterdam,,Netherlands,Posped,,Normal,Tank,No,No,No,Yes,Class 3- Flammable Liquids,No,49.74,40744
+181,Soy Milk,101,23,972,14,13,Yes,60,300,Grimsby,36,England,Euro Goodies,,Duisburg,,Germany,LKW,,Normal,Tank,No,No,No,No,Nil,No,30.77,30808
+314,Computer Processers,111,3,467,6,3,No,0,0,Grimsby,36,England,Tradeaux,,Southampton,,England,Transinet,,Normal,Curtainsiders,Yes,No,Yes,No,Nil,No,43.28,20811
+169,Chemicals,112,18,656,9,23,No,0,0,Grimsby,36,England,WGCC,,Aberdeen,,England,NBFC,,Urgent,Tank,No,No,No,Yes,Class 2- Gases,No,47.48,31747
+464,Smoked Sparts,131,17,435,6,7,No,0,0,Grimsby,36,England,Tradeaux,,Edinburgh,,England,Kaarfor,,Urgent,Curtainsiders,No,No,No,No,Nil,No,33.15,15022
+457,Truck Rims,186,12,469,6,34,No,0,0,Grimsby,36,England,Tradeaux,,Swansea,,England,Posped,,Urgent,Curtainsiders,No,No,No,No,Nil,No,31.1,15185
+78,Used Packaging,63,20,1544,24,48,Yes,60,300,Dover,23,England,LKW,,Lublin,,Poland,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,26.45,42404
+106,Corks,79,5,1228,18,38,Yes,60,300,Dover,23,England,LKW,,Verona,,Italy,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.8,37577
+145,Potatoes,86,22,1083,17,15,Yes,60,300,Dover,23,England,Euro Acers,,Prague,,Czech Republic,Tradeaux,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.25,33749
+301,Frozen Octopi,155,14,590,9,44,Yes,60,300,Dover,23,England,Euro Goodies,,Strasbourg,,France,Kaarfor,,Urgent,Refrigerated,No,No,No,No,Nil,No,34.63,21417
+503,Yacht,196,6,239,3,58,Yes,60,300,Dover,23,England,LKW,,Paris,,France,Lisette Logistics,,Normal,Low bed,Yes,No,Yes,No,Nil,No,52.37,13416
+604,Tires,209,16,315,4,14,No,0,0,Dover,23,England,LKW,,Birmingham,,England,BCP,,Normal,Curtainsiders,No,No,No,No,Nil,No,29.5,9892
+619,Grass Rolls,211,15,247,4,24,Yes,60,300,Dover,23,England,LKW,,Paris,,France,IKA,,Very Urgent,Curtainsiders,No,No,No,No,Nil,No,30.68,9306
+700,Barley,220,16,287,5,56,Yes,49,384,Dover,23,England,Euro Acers,,Reims,,France,Euro Goodies,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,16.76,5794
+490,Oranges,67,20,470,7,29,No,0,0,Duisburg,25,Germany,LKW,,kiel,,Germany,Stokes,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.32,13912
+611,Maple Syrup,80,17,332,5,5,No,0,0,Duisburg,25,Germany,LKW,,Mannheim,,Germany,Transinet,,Normal,Curtainsiders,No,No,No,No,Nil,No,27.3,9662
+132,Acid,94,19,696,10,32,Yes,60,300,Duisburg,25,Germany,NBFC,,London,,England,Sand Builders,,Normal,Tank,No,No,No,Yes,Class 8- Corrosive substances,No,48.36,34562
+455,Beverages,148,23,467,7,27,No,0,0,Duisburg,25,Germany,LKW,,kiel,,Germany,Posped,,Normal,Tank,No,No,Yes,No,Nil,No,31.54,15237
+325,Acetylene,161,4,1039,15,12,No,0,0,Duisburg,25,Germany,NBFC,,klagenfurt,,Austria,Trameri,,Normal,Tank,No,No,Yes,Yes,Class 2- Gases,No,19.1,20446
+341,Explosives,166,17,272,4,26,No,0,0,Duisburg,25,Germany,NBFC,,Hanover,,Germany,Stein Brunch,,Very Urgent,Articulated Trailer,No,No,Yes,Yes,Class 1- Explosives,No,70.51,19779
+416,Lead,179,9,835,12,19,No,0,0,Duisburg,25,Germany,NBFC,,Innsbruck,,Austria,RTLOG,,Urgent,Tank,No,No,No,Yes,Class 8- Corrosive substances,No,19.38,16782
+474,Square Tubing,189,12,812,11,59,Yes,60,300,Duisburg,25,Germany,LKW,,Felixstowe,,England,Tradeaux,,Urgent,Flatbeds,No,No,No,No,Nil,No,17.13,14811
+583,Ore,203,22,697,10,17,No,0,0,Duisburg,25,Germany,LKW,,Prague,,Czech Republic,Tradeaux,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,14.78,10901
+543,Maple Syrup,80,17,401,6,31,No,0,0,Leipzig,47,Poland,Euro Goodies,,Travemunde,,Germany,Polar Lines,,Normal,Curtainsiders,No,No,No,No,Nil,No,28.18,11901
+417,Sawdust Pannels,91,21,530,8,37,No,0,0,Leipzig,47,Germany,Treeet,,Katowice,,Poland,Posped,,Normal,Curtainsiders,No,No,No,No,Nil,No,30.41,16716
+165,Frozen Hake,110,17,1034,14,57,No,0,0,Leipzig,47,Germany,Euro Goodies,,Pecs,,Hungary,Tradeaux,,Normal,Refrigerated,No,No,No,No,Nil,No,30.51,32143
+308,Wooden Beams,115,22,693,10,24,No,0,0,Leipzig,47,Germany,Treeet,,Garz,,Austria,Euro Acers,,Normal,Flatbeds,No,No,No,No,Nil,No,29.85,21285
+370,Lumber,118,17,822,12,1,No,0,0,Leipzig,47,Germany,Treeet,,Verona,,Italy,Euro Acers,,Normal,Flatbeds,No,No,No,No,Nil,No,22.21,18854
+711,Wood Bark,214,6,545,8,5,No,0,0,Leipzig,47,Germany,Treeet,,Linz,,Austria,RTLOG,,Urgent,Bulk Carriers,No,No,No,No,Nil,No,8.19,5064
+359,Potatoes,86,21,655,11,53,No,0,0,Travemunde,89,Germany,Polar Lines,,Gdansk,,Poland,LKW,,Normal,Container Chassis,No,No,No,No,Nil,No,28.47,19248
